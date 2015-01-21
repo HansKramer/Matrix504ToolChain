@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib
+includedir=/usr/include/gstreamer-0.10
+
+Name: GStreamer base classes
+Description: Base classes for GStreamer elements
+Requires: gstreamer-0.10
+Version: 0.10.28
+Libs: -L${libdir} -lgstbase-0.10
+Cflags: -I${includedir}

@@ -1,0 +1,11 @@
+Package: compositeproto
+Version: 1:0.4.1-r0.5
+Description: X protocol headers: compositeproto
+Section: x11/libs
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: MIT-X
+Architecture: armv5te
+OE: compositeproto
+Homepage: http://www.x.org
+Source: http://xorg.freedesktop.org/releases/individual/proto/compositeproto-0.4.1.tar.bz2;name=archive

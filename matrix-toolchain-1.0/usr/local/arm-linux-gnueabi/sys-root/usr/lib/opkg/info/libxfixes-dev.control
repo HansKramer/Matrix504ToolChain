@@ -1,0 +1,13 @@
+Package: libxfixes-dev
+Version: 1:4.0.4-r0.5
+Description: X Fixes extension library.
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: BSD-X
+Architecture: armv5te
+OE: libxfixes
+Homepage: http://www.x.org
+Depends: libxfixes3, libxfixes3
+Recommends: util-macros-dev, xproto-dev, fixesproto-dev, xextproto-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxfixes-dev
+Source: http://xorg.freedesktop.org/releases/individual/lib/libXfixes-4.0.4.tar.bz2;name=archive

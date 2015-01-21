@@ -1,0 +1,13 @@
+Package: libattr-dev
+Version: 2.4.44-r2.5
+Description: Commands for Manipulating Filesystem Extended Attributes
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPLv2
+Architecture: armv5te
+OE: attr
+Homepage: unknown
+Depends: libattr1, libattr1
+Recommends: libc6-dev, libattr-dev, virtual-locale-fr-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-cs-dev, virtual-locale-gl-dev, virtual-locale-de-dev
+Source: http://mirror.its.uidaho.edu/pub/savannah/attr/attr-2.4.44.src.tar.gz

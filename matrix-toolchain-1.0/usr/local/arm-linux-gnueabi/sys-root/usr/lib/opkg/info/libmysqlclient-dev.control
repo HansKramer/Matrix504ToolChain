@@ -1,0 +1,13 @@
+Package: libmysqlclient-dev
+Version: 5.1.40-r2.5
+Description: The MySQL Open Source Database System
+Section: libs
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPL
+Architecture: armv5te
+OE: mysql5
+Homepage: http://www.mysql.com/
+Depends: libmysqlclient16, libc6, libstdc++6, libgcc1
+Recommends: ncurses-dev, update-rc.d-dev, libc6-dev, libz-dev, libgcc-dev
+Source: http://downloads.mysql.com/archives/mysql-5.1/mysql-5.1.40.tar.gz file://configure.in.patch;patch=1 file://plug.in.patch;patch=1 file://misc.m4.patch;patch=1 file://Makefile.am.patch;patch=1 file://fix_host_path.patch;patch=1 file://configure-ps-cache-check.patch;patch=1 file://my.cnf file://mysqld.sh

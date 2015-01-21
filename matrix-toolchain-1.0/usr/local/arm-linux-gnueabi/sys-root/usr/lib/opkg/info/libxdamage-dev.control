@@ -1,0 +1,13 @@
+Package: libxdamage-dev
+Version: 1:1.1.2-r1.5
+Description: X11 damaged region extension library
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: BSD-X
+Architecture: armv5te
+OE: libxdamage
+Homepage: http://www.x.org
+Depends: libxdamage1, libxdamage1
+Recommends: util-macros-dev, damageproto-dev, libxfixes-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxdamage-dev
+Source: http://xorg.freedesktop.org/releases/individual/lib/libXdamage-1.1.2.tar.bz2;name=archive

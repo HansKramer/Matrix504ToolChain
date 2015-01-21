@@ -1,0 +1,13 @@
+Package: libx11-dev
+Version: 1:1.3.3-r7.5
+Description: Base X libs.
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: MIT-X
+Architecture: armv5te
+OE: libx11
+Homepage: http://www.x.org
+Depends: libx11-6, libx11-6, xproto-dev, kbproto-dev
+Recommends: util-macros-dev, bigreqsproto-dev, xproto-dev, xextproto-dev, xtrans-dev, libxau-dev, xcmiscproto-dev, libxdmcp-dev, xf86bigfontproto-dev, kbproto-dev, inputproto-dev, libc6-dev, libx11-dev
+Source: http://xorg.freedesktop.org/releases/individual/lib/libX11-1.3.3.tar.bz2;name=archive file://x11_disable_makekeys.patch;patch=1 file://dolt-fix.patch;patch=1 file://keysymdef_include.patch;patch=1

@@ -1,0 +1,12 @@
+Package: libpam-meta
+Version: 1.1.0-r1.5
+Description: libpam meta package
+Section: libs
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPLv2
+Architecture: armv5te
+OE: libpam
+Homepage: http://kernel.org/pub/linux/libs/pam
+Depends: pam-plugin-umask, pam-plugin-debug, pam-plugin-rootok, pam-plugin-exec, pam-plugin-deny, pam-plugin-ftp, pam-plugin-faildelay, pam-plugin-shells, pam-plugin-timestamp, pam-plugin-loginuid, pam-plugin-namespace, pam-plugin-xauth, pam-plugin-motd, pam-plugin-permit, pam-plugin-limits, pam-plugin-mkhomedir, pam-plugin-keyinit, pam-plugin-env, pam-plugin-nologin, pam-plugin-group, pam-plugin-wheel, pam-plugin-succeed-if, pam-plugin-stress, pam-plugin-pwhistory, pam-plugin-lastlog, pam-plugin-issue, pam-plugin-mail, pam-plugin-rhosts, pam-plugin-echo, pam-plugin-tally, pam-plugin-localuser, pam-plugin-securetty, pam-plugin-listfile, pam-plugin-access, pam-plugin-warn, pam-plugin-time, pam-plugin-filter, pam-plugin-tally2, pam-plugin-unix
+Source: http://kernel.org/pub/linux/libs/pam/library/Linux-PAM-1.1.0.tar.bz2 file://pam-nodocs.patch;patch=1 file://fix_disabled_nls.patch;patch=1

@@ -1,0 +1,13 @@
+Package: cdparanoia-dev
+Version: 10.2+svnr16684-r2.5
+Description: Version 10.2+svnr16684-r2 of package cdparanoia
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPL
+Architecture: armv5te
+OE: cdparanoia
+Homepage: unknown
+Depends: cdparanoia, cdparanoia
+Recommends: libc6-dev, cdparanoia-dev
+Source: svn://svn.xiph.org/trunk;module=cdparanoia;proto=http file://fixes10.patch;patch=1 file://Makefile.in.patch;patch=1 file://interface_Makefile.in.patch;patch=1 file://paranoia_Makefile.in.patch;patch=1 file://configure.in.patch;patch=1

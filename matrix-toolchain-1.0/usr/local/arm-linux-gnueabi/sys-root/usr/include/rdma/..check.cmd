@@ -1,0 +1,1 @@
+cmd_/usr/local//arm-linux-gnueabi//sys-root/usr/include/rdma/.check := perl /home/ace.yang/toolchain/cross/targets/src/linux-2.6.29/scripts/headers_check.pl /usr/local//arm-linux-gnueabi//sys-root/usr/include arm /usr/local//arm-linux-gnueabi//sys-root/usr/include/rdma/ib_user_mad.h; touch /usr/local//arm-linux-gnueabi//sys-root/usr/include/rdma/.check

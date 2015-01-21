@@ -1,0 +1,12 @@
+Package: angstrom-feed-configs
+Version: 1.0-r9.5
+Description: Configuration files for online package repositories aka feeds
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: unknown
+Architecture: hawkboard
+OE: angstrom-feed-configs
+Homepage: unknown
+Recommends: opkg-nogpg-nocurl
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb

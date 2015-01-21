@@ -1,0 +1,13 @@
+Package: ncurses-dev
+Version: 5.4-r19.5
+Description: Ncurses library
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: MIT
+Architecture: armv5te
+OE: ncurses
+Homepage: http://www.gnu.org/software/ncurses/ncurses.html
+Depends: ncurses, ncurses
+Recommends: ncurses-dev, libc6-dev
+Source: ftp://ftp.gnu.org/gnu/ncurses/ncurses-5.4.tar.gz file://makefile_tweak.patch;patch=1 file://use_ldflags.patch;patch=1 file://visibility.patch;patch=1

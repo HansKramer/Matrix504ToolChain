@@ -1,0 +1,13 @@
+Package: libgnutls-dev
+Version: 2.8.5-r0.5
+Description: GNU Transport Layer Security Library
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: LGPL
+Architecture: armv5te
+OE: gnutls
+Homepage: http://www.gnu.org/software/gnutls/
+Depends: libgnutls26, libgnutlsxx26, libgnutls26, libgnutls-openssl26, libgnutls-extra26, libgnutls26, libz1, libgcrypt11, libgpg-error0, libc6
+Recommends: libz-dev, libgcrypt-dev, liblzo-dev, gettext-dev, gtk-doc-dev, libgnutls-dev, libgpg-error-dev, libc6-dev, gnutls-extra-dev, libstdc++-dev, libgcc-dev, gnutls-xx-dev, gnutls-openssl-dev, virtual-locale-fr-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-nl-dev, virtual-locale-vi-dev, virtual-locale-cs-dev, virtual-locale-en+quot-dev, virtual-locale-ms-dev, virtual-locale-en+boldquot-dev, virtual-locale-de-dev
+Source: ftp://ftp.gnutls.org/pub/gnutls/gnutls-2.8.5.tar.bz2;name=gnutls file://gnutls-openssl.patch;patch=1 file://gnutls-replace-siginterrupt.patch;patch=1

@@ -1,0 +1,12 @@
+Package: task-sdk-bare
+Version: 1.0-r1.5
+Description: Packages for a standalone  SDK or external toolchain
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: MIT
+Architecture: armv5te
+OE: task-sdk-bare
+Homepage: unknown
+Depends: libc6, glibc-dbg, virtual-libc-dev, glibc-utils, libsegfault, libthread-db1, libgcc1, libstdc++6, libstdc++-dev
+Source: file:///OE/openembedded.dev/recipes/tasks/task-sdk-bare.bb

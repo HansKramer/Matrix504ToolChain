@@ -1,0 +1,5 @@
+/usr/share/usb.ids
+/usr/share/usb.ids.gz
+/sbin/update-usbids.sh
+/sbin/lsusb
+/bin/usb-devices

@@ -1,0 +1,12 @@
+Package: libmpfr1
+Version: 2.3.1-r1.5
+Description: A C library for multiple-precision floating-point computations with exact rounding
+Section: libs
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPL LGPL
+Architecture: armv5te
+OE: mpfr
+Homepage: http://www.mpfr.org/
+Depends: libgmp3, libc6
+Source: http://www.mpfr.org/mpfr-2.3.1/mpfr-2.3.1.tar.bz2 file://long-long-thumb.patch;patch=1 file://dont_use_mips_h_constraint.patch;patch=1

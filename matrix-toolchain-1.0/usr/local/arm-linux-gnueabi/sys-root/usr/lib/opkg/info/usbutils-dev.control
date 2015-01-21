@@ -1,0 +1,13 @@
+Package: usbutils-dev
+Version: 0.86-r0.5
+Description: Host side USB console utilities.
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPLv2
+Architecture: armv5te
+OE: usbutils
+Homepage: unknown
+Depends: usbutils
+Recommends: libusb-0.1-dev, libz-dev, libc6-dev, usbutils-dev
+Source: http://downloads.sourceforge.net/linux-usb/usbutils-0.86.tar.gz

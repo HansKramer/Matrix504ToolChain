@@ -1,0 +1,5 @@
+/usr/include/sys/acl.h
+/usr/lib/libacl.a
+/usr/lib/libacl.la
+/usr/include/acl/libacl.h
+/usr/lib/libacl.so

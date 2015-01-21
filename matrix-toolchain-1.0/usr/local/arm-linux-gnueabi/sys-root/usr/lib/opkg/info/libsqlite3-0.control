@@ -1,0 +1,12 @@
+Package: libsqlite3-0
+Version: 3.6.20-r0.5
+Description: An Embeddable SQL Database Engine
+Section: libs
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: PD
+Architecture: armv5te
+OE: sqlite3
+Homepage: unknown
+Depends: libc6, libgcc1
+Source: http://www.sqlite.org/sqlite-3.6.20.tar.gz file://libtool.patch;patch=1

@@ -1,0 +1,3443 @@
+Package: gnome-vfs-plugin-file
+Version: 2.24.1-r2.5
+Depends: gnome-vfs, libacl1, libattr1, gnome-vfs, gconf, orbit2, libgmodule-2.0-0, libxml2, libc6, libdbus-glib-1-2, libgobject-2.0-0, libgthread-2.0-0, libgnutls26, libz1, libgcrypt11, libgpg-error0, libavahi-glib1, libglib-2.0-0, libavahi-client3, libdbus-1-3, libavahi-common3
+Recommends: gnome-vfs-plugin-file, shared-mime-info
+Provides:
+Replaces: gnome-vfs-dbus
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: xcmiscproto
+Version: 1:1.2.0-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libqt3supporte-dev
+Version: 4.6.2-r18.1.5
+Depends: libqt3supporte4, libqtcoree-dev, libqtguie-dev, libqtnetworke-dev, libqtsqle-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtsqle-dev, libqtxmle-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991895
+Auto-Installed: yes
+
+Package: libbz2-1
+Version: 1.0.5-r2.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libmikmod-dev
+Version: 3.1.12-r3.5
+Depends: libmikmod, libmikmod
+Recommends: libc6-dev, libgcc-dev, libmikmod-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: libqt3supporte4
+Version: 4.6.2-r18.1.5
+Depends: libqtsqle4, libqtxmle4, libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991895
+Auto-Installed: yes
+
+Package: pam-plugin-mail
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libts-dev
+Version: 1.0-r23.5.5
+Depends: libts-1.0-0
+Recommends: pointercal
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991929
+Auto-Installed: yes
+
+Package: pam-plugin-filter
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: directfb-dev
+Version: 1.4.2-r0.5
+Depends: directfb, directfb
+Recommends: libjpeg-dev, libpng-dev, libfreetype-dev, libz-dev, libts-1.0-dev, sysfsutils-dev, libc6-dev, libpng12-dev, libgcc-dev, libsysfs-dev, directfb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991856
+Auto-Installed: yes
+
+Package: libxv-dev
+Version: 1.0.5-r1.5
+Depends: libxv1, libxv1, xproto-dev, videoproto-dev
+Recommends: util-macros-dev, libxext-dev, videoproto-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxv-dev, xproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991892
+Auto-Installed: yes
+
+Package: util-linux-ng-umount
+Version: 2.17-r21.1.5
+Depends: libblkid1, libuuid1, libc6
+Provides: util-linux-umount
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: libpam
+Version: 1.1.0-r1.5
+Depends: libc6
+Recommends: libpam-meta, libpam-base-files
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: pam-plugin-wheel
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: directfb
+Version: 1.4.2-r0.5
+Depends: libz1, libts-1.0-0, libc6, libpng12-0, libgcc1, libfreetype6, libjpeg62, libsysfs2
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991857
+Auto-Installed: yes
+
+Package: avahi
+Version: 0.6.25-r1.5
+Depends: update-rc.d
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libxdmcp6
+Version: 1:1.0.3-r1.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: libtheora0
+Version: 1.1.1-r3.0.5
+Depends: libogg0, libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991873
+Auto-Installed: yes
+
+Package: libgstfft-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: libc6
+Version: 2.9-r35.3.5
+Depends: update-rc.d, libcidn1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991844
+Auto-Installed: yes
+
+Package: libgio-2.0-0
+Version: 2.24.0-r3.5
+Depends: libgobject-2.0-0, libgthread-2.0-0, libc6, libgmodule-2.0-0, libglib-2.0-0, libz1, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: randrproto-dev
+Version: 1:1.3.1-r1.5
+Depends: randrproto
+Recommends: util-macros-dev, randrproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: gnome-common-dev
+Version: 2.28.0-r0.5
+Depends: gnome-common
+Recommends: gnome-common-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libxrender-dev
+Version: 1:0.9.5-r1.5
+Depends: libxrender1, libxrender1
+Recommends: util-macros-dev, renderproto-dev, xproto-dev, xdmcp-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxrender-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: libqtsqle-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtsqle4, libqtcoree-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991896
+Auto-Installed: yes
+
+Package: gnome-mime-data-dev
+Version: 2.18.0-r0.5
+Depends: gnome-mime-data
+Recommends: gnome-common-dev, gconf-dev, shared-mime-info-dev, gnome-mime-data-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-sq-dev, virtual-locale-gu-dev, virtual-locale-en-ca-dev, virtual-locale-ca-dev, virtual-locale-th-dev, virtual-locale-pl-dev, virtual-locale-fa-dev, virtual-locale-eu-dev, virtual-locale-mk-dev, virtual-locale-az-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-pa-dev, virtual-locale-et-dev, virtual-locale-li-dev, virtual-locale-pt-dev, virtual-locale-hr-dev, virtual-locale-am-dev, virtual-locale-zh-cn-dev, virtual-locale-bs-dev, virtual-locale-hi-dev, virtual-locale-ar-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-sr+ije-dev, virtual-locale-he-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-bn-dev, virtual-locale-cs-dev, virtual-locale-en-gb-dev, virtual-locale-ro-dev, virtual-locale-id-dev, virtual-locale-be-dev, virtual-locale-eo-dev, virtual-locale-uk-dev, virtual-locale-is-dev, virtual-locale-sr+latn-dev, virtual-locale-wa-dev, virtual-locale-ta-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-ne-dev, virtual-locale-mn-dev, virtual-locale-gl-dev, virtual-locale-tk-dev, virtual-locale-zh-tw-dev, virtual-locale-cy-dev, virtual-locale-af-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-xh-dev, virtual-locale-ms-dev, virtual-locale-ml-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-lt-dev, virtual-locale-ja-dev, virtual-locale-lv-dev, virtual-locale-nso-dev, virtual-locale-sl-dev, virtual-locale-de-dev, virtual-locale-yi-dev, virtual-locale-zu-dev, virtual-locale-nb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libatk-1.0-dev
+Version: 1.30.0-r0.5
+Depends: libatk-1.0-0, libatk-1.0-0, libglib-2.0-dev
+Recommends: libglib-2.0-dev, hicolor-icon-theme-dev, gobject-2.0-dev, gthread-2.0-dev, libc6-dev, libatk-1.0-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-sq-dev, virtual-locale-gu-dev, virtual-locale-en-ca-dev, virtual-locale-sr+latin-dev, virtual-locale-ca-dev, virtual-locale-th-dev, virtual-locale-pl-dev, virtual-locale-fa-dev, virtual-locale-eu-dev, virtual-locale-mk-dev, virtual-locale-az-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-pa-dev, virtual-locale-et-dev, virtual-locale-li-dev, virtual-locale-pt-dev, virtual-locale-hr-dev, virtual-locale-am-dev, virtual-locale-dz-dev, virtual-locale-zh-cn-dev, virtual-locale-bs-dev, virtual-locale-hi-dev, virtual-locale-ar-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-sr+ije-dev, virtual-locale-he-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-ast-dev, virtual-locale-tt-dev, virtual-locale-bn-dev, virtual-locale-cs-dev, virtual-locale-en+shaw-dev, virtual-locale-be+latin-dev, virtual-locale-te-dev, virtual-locale-en-gb-dev, virtual-locale-ro-dev, virtual-locale-id-dev, virtual-locale-zh-hk-dev, virtual-locale-or-dev, virtual-locale-be-dev, virtual-locale-mai-dev, virtual-locale-eo-dev, virtual-locale-ug-dev, virtual-locale-uk-dev, virtual-locale-is-dev, virtual-locale-wa-dev, virtual-locale-ta-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-ne-dev, virtual-locale-mn-dev, virtual-locale-gl-dev, virtual-locale-ka-dev, virtual-locale-tk-dev, virtual-locale-zh-tw-dev, virtual-locale-bn-in-dev, virtual-locale-oc-dev, virtual-locale-cy-dev, virtual-locale-af-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-xh-dev, virtual-locale-ms-dev, virtual-locale-mr-dev, virtual-locale-ml-dev, virtual-locale-si-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-lt-dev, virtual-locale-ja-dev, virtual-locale-lv-dev, virtual-locale-as-dev, virtual-locale-sl-dev, virtual-locale-ku-dev, virtual-locale-de-dev, virtual-locale-ps-dev, virtual-locale-kn-dev, virtual-locale-yi-dev, virtual-locale-ca+valencia-dev, virtual-locale-nb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991884
+Auto-Installed: yes
+
+Package: libgstrtp-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: alsa-lib
+Version: 1.0.20-r3.5
+Depends: libasound2, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991873
+Auto-Installed: yes
+
+Package: libqtsqle4
+Version: 4.6.2-r18.1.5
+Depends: libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991896
+Auto-Installed: yes
+
+Package: randrproto
+Version: 1:1.3.1-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: gconf
+Version: 2.28.0-r0.5
+Depends: orbit2, libgmodule-2.0-0, libc6, libdbus-glib-1-2, libdbus-1-3, libgobject-2.0-0, libgthread-2.0-0, libglib-2.0-0, libxml2, libz1, gtk+, libatk-1.0-0, libgio-2.0-0, pango, libcairo2, libpixman-1-0, libpng12-0, libxrender1, libx11-6, libxau6, libxdmcp6, libfontconfig1, libfreetype6, libexpat1, policykit, eggdbus
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991876
+Auto-Installed: yes
+
+Package: libatk-1.0-0
+Version: 1.30.0-r0.5
+Depends: hicolor-icon-theme, libgobject-2.0-0, libgthread-2.0-0, libc6, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991880
+Auto-Installed: yes
+
+Package: gst-plugins-base-dev
+Version: 0.10.28-r7.1.5
+Depends: gst-plugins-base, libgsttag-0.10-0, libgstsdp-0.10-0, libgstrtsp-0.10-0, libgstnetbuffer-0.10-0, libgstfft-0.10-0, libgstpbutils-0.10-0, libgstvideo-0.10-0, libgstaudio-0.10-0, libgstrtp-0.10-0, libgstriff-0.10-0, libgstapp-0.10-0, libgstinterfaces-0.10-0, libgstcdda-0.10-0, libglib-2.0-dev, gstreamer-dev
+Recommends: gstreamer-dev, libmikmod-dev, liboil-dev, libogg-dev, libvorbisidec-dev, libvorbis-dev, libmad-dev, libid3tag-dev, udev-dev, cdparanoia-dev, pango-dev, libtheora-dev, alsa-lib-dev, libsm-dev, libfreetype-dev, gnome-vfs-dev, libxv-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: tslib-conf
+Version: 1.0-r23.5.5
+Recommends: pointercal
+Provides: libts-0.0-conf
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991857
+Auto-Installed: yes
+
+Package: libsqlite-dev
+Version: 2.8.17-r5.5
+Depends: libsqlite0, libsqlite0
+Recommends: libreadline-dev, ncurses-dev, libgcc-dev, libc6-dev, libsqlite-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991894
+Auto-Installed: yes
+
+Package: util-linux-ng-mountall
+Version: 2.17-r21.1.5
+Provides:
+Replaces: busybox-mountall
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: libphonone-dev
+Version: 4.6.2-r18.1.5
+Depends: libphonone4, libqtcoree-dev, libqtguie-dev, libqtnetworke-dev, libqtdbuse-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtdbuse-dev, libqtxmle-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991851
+Auto-Installed: yes
+
+Package: libavahi-gobject0
+Version: 0.6.25-r1.5
+Depends: libavahi-client3, libdbus-1-3, libc6, libavahi-glib1, libavahi-common3, libgobject-2.0-0, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libice6
+Version: 1:1.0.6-r1.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: libqtnetworke4
+Version: 4.6.2-r18.1.5
+Depends: libqtcoree4, libglib-2.0-0, libc6, libz1, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991856
+Auto-Installed: yes
+
+Package: libsm-dev
+Version: 1:1.1.1-r0.5
+Depends: libsm6, libsm6, libice-dev, xproto-dev
+Recommends: util-macros-dev, libice-dev, xproto-dev, xtrans-dev, util-linux-ng-dev, libuuid-dev, libc6-dev, libsm-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: libqtassistantcliente4
+Version: 4.6.2-r18.1.5
+Depends: libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991896
+Auto-Installed: yes
+
+Package: update-rc.d-dbg
+Version: 0.7-r1.5
+Recommends: update-rc.d, update-rc.d-dbg
+Provides:
+Status: install ok installed
+Architecture: all
+Installed-Time: 1271991845
+Auto-Installed: yes
+
+Package: libgcrypt11
+Version: 1.4.1-r0.5
+Depends: libgpg-error0, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991875
+Auto-Installed: yes
+
+Package: pam-plugin-group
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: util-linux-ng-readprofile
+Version: 2.17-r21.1.5
+Depends: libgcc1, libc6
+Provides: util-linux-readprofile
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libxcursor-dev
+Version: 1:1.1.10-r2.5
+Depends: libxcursor1, libxcursor1, xproto-dev
+Recommends: util-macros-dev, libxrender-dev, libxfixes-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxcursor-dev, xproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991885
+Auto-Installed: yes
+
+Package: pam-plugin-access
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libusb-0.1-4
+Version: 1:0.1.3-r0.5
+Depends: libusb-1.0-0, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: eggdbus
+Version: 0.6-r0.5
+Depends: libc6, libglib-2.0-0, libdbus-1-3, libgobject-2.0-0, libgio-2.0-0, libz1, libgmodule-2.0-0, libdbus-glib-1-2, libgthread-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: libpq-dev
+Version: 8.1.8-r4.5
+Depends: libpq4
+Recommends: libz-dev, libreadline-dev, libc6-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991894
+Auto-Installed: yes
+
+Package: openssl
+Version: 0.9.8m-r12.0.5
+Depends: libssl0.9.8, libcrypto0.9.8, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libxv1
+Version: 1.0.5-r1.5
+Depends: libxext6, libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991892
+Auto-Installed: yes
+
+Package: libqtcoree-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtcoree4
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libc6-dev, gthread-2.0-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991856
+Auto-Installed: yes
+
+Package: libgstcdda-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: libgsttag-0.10-0, gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: liblzo1
+Version: 1.08-r15.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991884
+Auto-Installed: yes
+
+Package: util-linux-ng-mount
+Version: 2.17-r21.1.5
+Depends: libblkid1, libuuid1, libc6
+Provides: util-linux-mount
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libgmodule-2.0-0
+Version: 2.24.0-r3.5
+Depends: libc6, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: libstdc++-dev
+Version: 4.3.3-r11.1.5
+Recommends: libmpfr-dev, libgmp-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991851
+Auto-Installed: yes
+
+Package: libqtscripte4
+Version: 4.6.2-r18.1.5
+Depends: libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991897
+Auto-Installed: yes
+
+Package: libgnutlsxx26
+Version: 2.8.5-r0.5
+Depends: libgnutls26, libz1, libgcrypt11, libgpg-error0, libstdc++6, libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991887
+Auto-Installed: yes
+
+Package: util-linux-ng-sfdisk
+Version: 2.17-r21.1.5
+Depends: libgcc1, libc6
+Provides: util-linux-sfdisk
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: pam-plugin-securetty
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libusb-1.0-0
+Version: 1.0.4-r1.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libxft2
+Version: 1:2.1.14-r1.5
+Depends: libfontconfig1, libexpat1, libfreetype6, libxrender1, libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: libuuid1
+Version: 2.17-r21.1.5
+Depends: libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: liboil-dev
+Version: 0.3.15-r4.5
+Depends: liboil, liboil
+Recommends: libglib-2.0-dev, libc6-dev, liboil-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: libtiff-dev
+Version: 3.9.2+4.0.0beta5-r3.5
+Depends: libtiff5, libtiff5
+Recommends: libz-dev, libjpeg-dev, liblzo-dev, libc6-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991884
+Auto-Installed: yes
+
+Package: pango-module-basic-fc
+Version: 1.24.4-r0.1.5
+Depends: pango, pango, libgobject-2.0-0, libgthread-2.0-0, libc6, libgmodule-2.0-0, libglib-2.0-0, libfontconfig1, libfreetype6, libexpat1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991871
+Auto-Installed: yes
+
+Package: gnome-mime-data
+Version: 2.18.0-r0.5
+Depends: shared-mime-info
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: xf86bigfontproto-dev
+Version: 1:1.2.0-r1.5
+Depends: xf86bigfontproto
+Recommends: util-macros-dev, xf86bigfontproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: liboil
+Version: 0.3.15-r4.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: alsa-conf-base
+Version: 1.0.20-r3.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991874
+Auto-Installed: yes
+
+Package: util-macros-dev
+Version: 1:1.7.0-r2.0.5
+Depends: util-macros
+Recommends: util-macros-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: gtk+-dev
+Version: 2.20.0-r8.0.5
+Depends: gtk+, gtk+, gtk+, libgio-2.0-0, libc6, libz1, libgobject-2.0-0, libgmodule-2.0-0, libgthread-2.0-0, libglib-2.0-0, pango-dev, libatk-1.0-dev, libcairo-dev, libglib-2.0-dev
+Recommends: libglib-2.0-dev, libtiff-dev, pango-dev, libatk-1.0-dev, libjpeg-dev, libpng-dev, libxext-dev, libxcursor-dev, gtk-doc-dev, libgcrypt-dev, cups-dev, libxrandr-dev, libxdamage-dev, libxrender-dev, libxcomposite-dev, libcairo-dev, libjasper-dev, gtk+-dev, libxfixes-dev, libpixman-1-dev, libpng12-dev, libx11-dev, libxau-dev, libxdmcp-dev, gio-2.0-dev, libc6-dev, libz-dev, libfontconfig-dev, libfreetype-dev, libexpat-dev, gobject-2.0-dev, gmodule-2.0-dev, gthread-2.0-dev, hicolor-icon-theme-dev, libgcc-dev, gtk+-demo-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-sq-dev, virtual-locale-gu-dev, virtual-locale-en-ca-dev, virtual-locale-sr+latin-dev, virtual-locale-nds-dev, virtual-locale-ca-dev, virtual-locale-th-dev, virtual-locale-pl-dev, virtual-locale-ia-dev, virtual-locale-fa-dev, virtual-locale-my-dev, virtual-locale-ang-dev, virtual-locale-eu-dev, virtual-locale-mk-dev, virtual-locale-az-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-hy-dev, virtual-locale-crh-dev, virtual-locale-pa-dev, virtual-locale-et-dev, virtual-locale-li-dev, virtual-locale-pt-dev, virtual-locale-uz-dev, virtual-locale-hr-dev, virtual-locale-am-dev, virtual-locale-dz-dev, virtual-locale-zh-cn-dev, virtual-locale-bs-dev, virtual-locale-hi-dev, virtual-locale-ar-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-az-ir-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-sr+ije-dev, virtual-locale-he-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-ast-dev, virtual-locale-tt-dev, virtual-locale-bn-dev, virtual-locale-cs-dev, virtual-locale-be+latin-dev, virtual-locale-te-dev, virtual-locale-en-gb-dev, virtual-locale-ro-dev, virtual-locale-mi-dev, virtual-locale-id-dev, virtual-locale-zh-hk-dev, virtual-locale-or-dev, virtual-locale-be-dev, virtual-locale-mai-dev, virtual-locale-br-dev, virtual-locale-eo-dev, virtual-locale-uk-dev, virtual-locale-is-dev, virtual-locale-wa-dev, virtual-locale-ta-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-ne-dev, virtual-locale-uz+cyrillic-dev, virtual-locale-mn-dev, virtual-locale-gl-dev, virtual-locale-ka-dev, virtual-locale-tk-dev, virtual-locale-zh-tw-dev, virtual-locale-bn-in-dev, virtual-locale-oc-dev, virtual-locale-cy-dev, virtual-locale-ur-dev, virtual-locale-af-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-xh-dev, virtual-locale-ms-dev, virtual-locale-mr-dev, virtual-locale-ml-dev, virtual-locale-si-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-lt-dev, virtual-locale-ja-dev, virtual-locale-lv-dev, virtual-locale-as-dev, virtual-locale-nso-dev, virtual-locale-sl-dev, virtual-locale-ku-dev, virtual-locale-de-dev, virtual-locale-ps-dev, virtual-locale-kn-dev, virtual-locale-yi-dev, virtual-locale-ca+valencia-dev, virtual-locale-io-dev, virtual-locale-nb-dev, cups-lib-dev
+Provides: libgailutil-dev
+Replaces: libgailutil-dev
+Conflicts: libgailutil-dev
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991884
+Auto-Installed: yes
+
+Package: libqtsvge-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtsvge4, libqtcoree-dev, libqtguie-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991900
+Auto-Installed: yes
+
+Package: libxdmcp-dev
+Version: 1:1.0.3-r1.5
+Depends: libxdmcp6, libxdmcp6, xproto-dev
+Recommends: util-macros-dev, xproto-dev, libc6-dev, libxdmcp-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: fixesproto-dev
+Version: 1:4.1.1-r1.5
+Depends: fixesproto
+Recommends: util-macros-dev, fixesproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991885
+Auto-Installed: yes
+
+Package: update-rc.d-dev
+Version: 0.7-r1.5
+Depends: update-rc.d
+Recommends: update-rc.d-dev
+Provides:
+Status: install ok installed
+Architecture: all
+Installed-Time: 1271991847
+Auto-Installed: yes
+
+Package: pkgconfig-dev
+Version: 0.23-r8.3.5
+Depends: pkgconfig
+Recommends: libglib-2.0-dev, libc6-dev, pkgconfig-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991873
+Auto-Installed: yes
+
+Package: libqtsvge4
+Version: 4.6.2-r18.1.5
+Depends: libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libz1, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991900
+Auto-Installed: yes
+
+Package: libxml2-dev
+Version: 2.7.7-r8.0.5
+Depends: libxml2, libxml2
+Recommends: libxml2-dev, libc6-dev, libz-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: libidl-2-0
+Version: 0.8.13-r0.5
+Depends: libglib-2.0-0, libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991876
+Auto-Installed: yes
+
+Package: libqtdesignercomponentse4
+Version: 4.6.2-r18.1.5
+Depends: libqtscripte4, libqtxmle4, libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libqtdesignere4, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991896
+Auto-Installed: yes
+
+Package: openssl-dev
+Version: 0.9.8m-r12.0.5
+Depends: openssl, libssl0.9.8, libcrypto0.9.8
+Recommends: libc6-dev, libgcc-dev, libcrypto-dev, libssl-dev, openssl-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libstdc++6
+Version: 4.3.3-r11.1.5
+Depends: libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991849
+Auto-Installed: yes
+
+Package: fixesproto
+Version: 1:4.1.1-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991885
+Auto-Installed: yes
+
+Package: libice-dev
+Version: 1:1.0.6-r1.5
+Depends: libice6, libice6, xproto-dev
+Recommends: util-macros-dev, xproto-dev, xtrans-dev, libc6-dev, libice-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: policykit
+Version: 0.96-r2.5
+Depends: libgobject-2.0-0, libglib-2.0-0, libc6, libpam, eggdbus, libdbus-glib-1-2, libdbus-1-3, libgio-2.0-0, libz1, libgmodule-2.0-0, libgthread-2.0-0, libexpat1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: flex-dev
+Version: 2.5.35-r0.5
+Depends: flex
+Recommends: gettext-dev, libc6-dev, flex-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-ca-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-zh-cn-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-vi-dev, virtual-locale-ro-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-de-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991888
+Auto-Installed: yes
+
+Package: pam-plugin-motd
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: pam-plugin-warn
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libxrender1
+Version: 1:0.9.5-r1.5
+Depends: libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991871
+Auto-Installed: yes
+
+Package: libogg-dev
+Version: 1.1.4-r4.0.5
+Depends: libogg0, libogg0
+Recommends: libc6-dev, libogg-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: libpam-dev
+Version: 1.1.0-r1.5
+Depends: libpam, libpam
+Recommends: flex-dev, libc6-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991888
+Auto-Installed: yes
+
+Package: libdbus-1-3
+Version: 1.2.24-r0.5
+Depends: libc6
+Recommends: dbus
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991860
+Auto-Installed: yes
+
+Package: pam-plugin-rootok
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: bzip2
+Version: 1.0.5-r2.5
+Depends: libbz2-1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: usbutils-dev
+Version: 0.86-r0.5
+Depends: usbutils
+Recommends: libusb-0.1-dev, libz-dev, libc6-dev, usbutils-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libgstapp-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: libqtteste4
+Version: 4.6.2-r18.1.5
+Depends: libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991900
+Auto-Installed: yes
+
+Package: gdk-pixbuf-loader-xpm
+Version: 2.20.0-r8.0.5
+Depends: gtk+, libgio-2.0-0, libc6, libz1, libgobject-2.0-0, libgmodule-2.0-0, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: usbutils
+Version: 0.86-r0.5
+Depends: libusb-0.1-4, libz1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libxdamage1
+Version: 1:1.1.2-r1.5
+Depends: libxfixes3, libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991879
+Auto-Installed: yes
+
+Package: pam-plugin-tally2
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: libjpeg-dev
+Version: 6b-r9.5
+Depends: libjpeg62, libjpeg62
+Recommends: libc6-dev, libjpeg-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991857
+Auto-Installed: yes
+
+Package: libqtclucenee-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtclucenee4, libqtcoree-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991896
+Auto-Installed: yes
+
+Package: libxcomposite-dev
+Version: 1:0.4.1-r0.5
+Depends: libxcomposite1, libxcomposite1
+Recommends: util-macros-dev, compositeproto-dev, libxfixes-dev, libxext-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxcomposite-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: libgobject-2.0-0
+Version: 2.24.0-r3.5
+Depends: libgthread-2.0-0, libc6, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: alsa-lib-dev
+Version: 1.0.20-r3.5
+Depends: alsa-lib, libasound2
+Recommends: libasound-dev, libc6-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991873
+Auto-Installed: yes
+
+Package: pam-plugin-time
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: gconf-dev
+Version: 2.28.0-r0.5
+Depends: gconf, gconf, libglib-2.0-dev
+Recommends: gtk+-dev, orbit2-dev, libglib-2.0-dev, libxml2-dev, policykit-dev, gmodule-2.0-dev, libc6-dev, libdbus-glib-1-dev, dbus-lib-dev, gobject-2.0-dev, gthread-2.0-dev, libz-dev, libatk-1.0-dev, gio-2.0-dev, pango-dev, libcairo-dev, libpixman-1-dev, libpng12-dev, libxrender-dev, libx11-dev, libxau-dev, libxdmcp-dev, libfontconfig-dev, libfreetype-dev, libexpat-dev, eggdbus-dev, gconf-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-sq-dev, virtual-locale-gu-dev, virtual-locale-en-ca-dev, virtual-locale-sr+latin-dev, virtual-locale-ca-dev, virtual-locale-th-dev, virtual-locale-pl-dev, virtual-locale-fa-dev, virtual-locale-eu-dev, virtual-locale-mk-dev, virtual-locale-az-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-pa-dev, virtual-locale-et-dev, virtual-locale-pt-dev, virtual-locale-hr-dev, virtual-locale-am-dev, virtual-locale-dz-dev, virtual-locale-zh-cn-dev, virtual-locale-bs-dev, virtual-locale-hi-dev, virtual-locale-ar-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-he-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-bn-dev, virtual-locale-cs-dev, virtual-locale-te-dev, virtual-locale-en-gb-dev, virtual-locale-ro-dev, virtual-locale-id-dev, virtual-locale-zh-hk-dev, virtual-locale-or-dev, virtual-locale-be-dev, virtual-locale-mg-dev, virtual-locale-mai-dev, virtual-locale-uk-dev, virtual-locale-is-dev, virtual-locale-ta-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-ne-dev, virtual-locale-mn-dev, virtual-locale-gl-dev, virtual-locale-ka-dev, virtual-locale-zh-tw-dev, virtual-locale-bn-in-dev, virtual-locale-oc-dev, virtual-locale-cy-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-xh-dev, virtual-locale-ms-dev, virtual-locale-mr-dev, virtual-locale-ml-dev, virtual-locale-si-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-lt-dev, virtual-locale-ja-dev, virtual-locale-lv-dev, virtual-locale-as-dev, virtual-locale-sl-dev, virtual-locale-ku-dev, virtual-locale-de-dev, virtual-locale-kn-dev, virtual-locale-yi-dev, virtual-locale-ca+valencia-dev, virtual-locale-nb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: libmad0
+Version: 0.15.1b-r5.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: linux-libc-headers-dbg
+Version: 2.6.31-r3.5
+Recommends: linux-libc-headers-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991845
+Auto-Installed: yes
+
+Package: libxfixes-dev
+Version: 1:4.0.4-r0.5
+Depends: libxfixes3, libxfixes3
+Recommends: util-macros-dev, xproto-dev, fixesproto-dev, xextproto-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxfixes-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991885
+Auto-Installed: yes
+
+Package: libqtdbuse-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtdbuse4, libqtcoree-dev, libqtxmle-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtxmle-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991895
+Auto-Installed: yes
+
+Package: libqtxmle4
+Version: 4.6.2-r18.1.5
+Depends: libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991852
+Auto-Installed: yes
+
+Package: libpam-meta
+Version: 1.1.0-r1.5
+Depends: pam-plugin-umask, pam-plugin-debug, pam-plugin-rootok, pam-plugin-exec, pam-plugin-deny, pam-plugin-ftp, pam-plugin-faildelay, pam-plugin-shells, pam-plugin-timestamp, pam-plugin-loginuid, pam-plugin-namespace, pam-plugin-xauth, pam-plugin-motd, pam-plugin-permit, pam-plugin-limits, pam-plugin-mkhomedir, pam-plugin-keyinit, pam-plugin-env, pam-plugin-nologin, pam-plugin-group, pam-plugin-wheel, pam-plugin-succeed-if, pam-plugin-stress, pam-plugin-pwhistory, pam-plugin-lastlog, pam-plugin-issue, pam-plugin-mail, pam-plugin-rhosts, pam-plugin-echo, pam-plugin-tally, pam-plugin-localuser, pam-plugin-securetty, pam-plugin-listfile, pam-plugin-access, pam-plugin-warn, pam-plugin-time, pam-plugin-filter, pam-plugin-tally2, pam-plugin-unix
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libgstsdp-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: libmysqlclient-dev
+Version: 5.1.40-r2.5
+Depends: libmysqlclient16, libc6, libstdc++6, libgcc1
+Recommends: ncurses-dev, update-rc.d-dev, libc6-dev, libz-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991928
+Auto-Installed: yes
+
+Package: pam-plugin-permit
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: ttf-dejavu-sans
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common
+Provides:
+Status: install ok installed
+Architecture: all
+Installed-Time: 1271991880
+Auto-Installed: yes
+
+Package: glibc-utils
+Version: 2.9-r35.3.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991848
+Auto-Installed: yes
+
+Package: libgstvideo-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: pam-plugin-echo
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: pointercal
+Version: 0.0-r20.5
+Provides:
+Status: install ok installed
+Architecture: hawkboard
+Installed-Time: 1271991857
+Auto-Installed: yes
+
+Package: libvorbisidec1
+Version: 20041119-r1.5
+Depends: libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: libts-1.0-0
+Version: 1.0-r23.5.5
+Depends: tslib-conf, libc6, libgcc1
+Recommends: pointercal
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991857
+Auto-Installed: yes
+
+Package: libxml2
+Version: 2.7.7-r8.0.5
+Depends: libc6, libz1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: util-linux-ng
+Version: 2.17-r21.1.5
+Depends: util-linux-ng-mountall, util-linux-ng-umount, util-linux-ng-swaponoff, util-linux-ng-losetup, util-linux-ng-fsck, util-linux-ng-blkid, libc6, ncurses, libgcc1, libuuid1, libblkid1, libz1
+Recommends: util-linux-ng-fdisk, util-linux-ng-cfdisk, util-linux-ng-sfdisk, util-linux-ng-mount, util-linux-ng-readprofile
+Provides: util-linux
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: libphonone4
+Version: 4.6.2-r18.1.5
+Depends: libqtdbuse4, libqtxmle4, libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991852
+Auto-Installed: yes
+
+Package: libqt-embeddeduitools4-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtxmle-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991899
+Auto-Installed: yes
+
+Package: cups-dev
+Version: 1.2.12-r7.1.5
+Depends: cups, libcupsimage, libcups2
+Recommends: libgnutls-dev, libjpeg-dev, dbus-dev, libdbus-glib-1-dev, libpng-dev, libz-dev, libc6-dev, libpng12-dev, cups-lib-dev, cups-libimage-dev, libstdc++-dev, libgcc-dev, libpam-dev, dbus-lib-dev, libacl-dev, cups-dev, virtual-locale-it-dev, virtual-locale-fr-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-et-dev, virtual-locale-es-dev, virtual-locale-zh-tw-dev, virtual-locale-ja-dev, virtual-locale-de-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991885
+Auto-Installed: yes
+
+Package: libavahi-common3
+Version: 0.6.25-r1.5
+Depends: libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991875
+Auto-Installed: yes
+
+Package: libblkid1
+Version: 2.17-r21.1.5
+Depends: libuuid1, libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: libxrandr-dev
+Version: 1:1.3.0-r0.5
+Depends: libxrandr2, libxrandr2
+Recommends: util-macros-dev, randrproto-dev, libxrender-dev, libxext-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxrandr-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: libthread-db1
+Version: 2.9-r35.3.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991847
+Auto-Installed: yes
+
+Package: libdaemon-dev
+Version: 0.13-r0.5
+Depends: libdaemon0, libdaemon0
+Recommends: libc6-dev, libdaemon-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libmikmod
+Version: 3.1.12-r3.5
+Depends: libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: libsqlite3-0
+Version: 3.6.20-r0.5
+Depends: libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991929
+Auto-Installed: yes
+
+Package: cups
+Version: 1.2.12-r7.1.5
+Depends: libcups2, libgnutls26, libc6, libz1, libcupsimage, libstdc++6, libgcc1, libpam, libdbus-1-3, libacl1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991886
+Auto-Installed: yes
+
+Package: font-update-common
+Version: 0.1-r0.5
+Provides:
+Status: install ok installed
+Architecture: all
+Installed-Time: 1271991880
+Auto-Installed: yes
+
+Package: libqtxmle-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtxmle4, libqtcoree-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991895
+Auto-Installed: yes
+
+Package: glibc-gconv
+Version: 2.9-r35.3.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: linux-libc-headers-dev
+Version: 2.6.31-r3.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991846
+Auto-Installed: yes
+
+Package: udev-utils
+Version: 151-r9.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libxft-dev
+Version: 1:2.1.14-r1.5
+Depends: libxft2, libxft2, xproto-dev, libxrender-dev, libfontconfig-dev, libfreetype-dev
+Recommends: util-macros-dev, libxrender-dev, libfreetype-dev, libfontconfig-dev, libexpat-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxft-dev, xproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: libgstrtsp-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: libgpg-error-dev
+Version: 1.4-r7.1.5
+Depends: libgpg-error0, libgpg-error0, libgpg-error0, libc6
+Recommends: libc6-dev, libgpg-error-dev, virtual-locale-fr-dev, virtual-locale-pl-dev, virtual-locale-vi-dev, virtual-locale-ro-dev, virtual-locale-de-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991885
+Auto-Installed: yes
+
+Package: libxrandr2
+Version: 1:1.3.0-r0.5
+Depends: libxext6, libxrender1, libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991879
+Auto-Installed: yes
+
+Package: libqtscripttoolse4
+Version: 4.6.2-r18.1.5
+Depends: libqtscripte4, libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991900
+Auto-Installed: yes
+
+Package: libpng
+Version: 1.2.42-r2.0.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991859
+Auto-Installed: yes
+
+Package: util-linux-ng-swaponoff
+Version: 2.17-r21.1.5
+Depends: libblkid1, libuuid1, libc6
+Provides: util-linux-swaponoff
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: damageproto-dev
+Version: 1:1.2.0-r1.5
+Depends: damageproto
+Recommends: util-macros-dev, damageproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: shared-mime-info
+Version: 0.51-r2.5
+Depends: libxml2, libglib-2.0-0, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: pam-plugin-umask
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: kbproto-dev
+Version: 1:1.0.4-r1.5
+Depends: kbproto
+Recommends: util-macros-dev, kbproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: dbus
+Version: 1.2.24-r0.5
+Depends: update-rc.d, libexpat1, libc6, libdbus-1-3
+Provides: dbus-1
+Replaces: dbus-1
+Conflicts: dbus-1
+Status: install ok installed
+Architecture: armv5te
+Conffiles:
+ /etc/dbus-1/system.conf cde0a6ef9dad7b80fce3b227753fa64e
+ /etc/dbus-1/session.conf 673ab3651353e67a32593236f7410d2f
+Installed-Time: 1271991860
+Auto-Installed: yes
+
+Package: compositeproto-dev
+Version: 1:0.4.1-r0.5
+Depends: compositeproto
+Recommends: util-macros-dev, compositeproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: damageproto
+Version: 1:1.2.0-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: libvorbis-dev
+Version: 1.2.3-r2.1.5
+Depends: libvorbis0, libvorbis0, libogg-dev
+Recommends: libogg-dev, libc6-dev, libvorbis-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: libpam-base-files
+Version: 1.0-r5.5
+Depends: libpam
+Recommends: libpam-meta
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: gnome-vfs-dev
+Version: 2.24.1-r2.5
+Depends: gnome-vfs, gnome-vfs, gconf-dev, libglib-2.0-dev
+Recommends: gnome-vfs-plugin-file, shared-mime-info, libxml2-dev, gconf-dev, libgnutls-dev, avahi-dev, dbus-dev, libdbus-glib-1-dev, bzip2-dev, gnome-mime-data-dev, libz-dev, gnome-common-dev, shared-mime-info-dev, hicolor-icon-theme-dev, libc6-dev, libgcrypt-dev, libgpg-error-dev, libavahi-glib-dev, libavahi-client-dev, libavahi-common-dev, orbit2-dev, gmodule-2.0-dev, dbus-lib-dev, gobject-2.0-dev, gthread-2.0-dev, libglib-2.0-dev, gnome-vfs-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-sq-dev, virtual-locale-gu-dev, virtual-locale-en-ca-dev, virtual-locale-sr+latin-dev, virtual-locale-ca-dev, virtual-locale-th-dev, virtual-locale-pl-dev, virtual-locale-fa-dev, virtual-locale-eu-dev, virtual-locale-mk-dev, virtual-locale-az-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-pa-dev, virtual-locale-et-dev, virtual-locale-li-dev, virtual-locale-pt-dev, virtual-locale-uz-dev, virtual-locale-hr-dev, virtual-locale-am-dev, virtual-locale-dz-dev, virtual-locale-zh-cn-dev, virtual-locale-bs-dev, virtual-locale-hi-dev, virtual-locale-ar-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-sr+ije-dev, virtual-locale-he-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-ast-dev, virtual-locale-bn-dev, virtual-locale-cs-dev, virtual-locale-te-dev, virtual-locale-en-gb-dev, virtual-locale-ro-dev, virtual-locale-id-dev, virtual-locale-zh-hk-dev, virtual-locale-or-dev, virtual-locale-be-dev, virtual-locale-mg-dev, virtual-locale-mai-dev, virtual-locale-eo-dev, virtual-locale-uk-dev, virtual-locale-is-dev, virtual-locale-wa-dev, virtual-locale-ta-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-ne-dev, virtual-locale-uz+cyrillic-dev, virtual-locale-mn-dev, virtual-locale-gl-dev, virtual-locale-ka-dev, virtual-locale-zh-tw-dev, virtual-locale-bn-in-dev, virtual-locale-oc-dev, virtual-locale-cy-dev, virtual-locale-af-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-xh-dev, virtual-locale-ms-dev, virtual-locale-mr-dev, virtual-locale-ml-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-lt-dev, virtual-locale-ja-dev, virtual-locale-lv-dev, virtual-locale-as-dev, virtual-locale-nso-dev, virtual-locale-sl-dev, virtual-locale-ku-dev, virtual-locale-de-dev, virtual-locale-kn-dev, virtual-locale-yi-dev, virtual-locale-zu-dev, virtual-locale-nb-dev, libacl-dev, libattr-dev, libbz2-dev
+Provides:
+Replaces: gnome-vfs-dbus
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991875
+Auto-Installed: yes
+
+Package: libqthelpe4
+Version: 4.6.2-r18.1.5
+Depends: libqtsqle4, libqtxmle4, libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libqtclucenee4, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991899
+Auto-Installed: yes
+
+Package: hicolor-icon-theme
+Version: 0.11-r0.5
+Provides:
+Status: install ok installed
+Architecture: all
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: xf86bigfontproto
+Version: 1:1.2.0-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: pam-plugin-rhosts
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libpq4
+Version: 8.1.8-r4.5
+Depends: libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991893
+Auto-Installed: yes
+
+Package: gtk+
+Version: 2.20.0-r8.0.5
+Depends: hicolor-icon-theme, libxrandr2, libxcursor1, pango, libxcomposite1, libxext6, libxdamage1, libxfixes3, libatk-1.0-0, libcairo2, libpixman-1-0, libpng12-0, libxrender1, libx11-6, libxau6, libxdmcp6, libgio-2.0-0, libc6, libz1, libfontconfig1, libfreetype6, libexpat1, libgobject-2.0-0, libgmodule-2.0-0, libgthread-2.0-0, libglib-2.0-0, libgcc1
+Recommends: ttf-dejavu-sans, gdk-pixbuf-loader-png, gdk-pixbuf-loader-jpeg, gdk-pixbuf-loader-gif, gdk-pixbuf-loader-xpm, glibc-gconv-iso8859-1
+Provides: libgailutil18
+Replaces: libgailutil18
+Conflicts: libgailutil18
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991879
+Auto-Installed: yes
+
+Package: libqtscripttoolse-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtscripttoolse4, libqtcoree-dev, libqtguie-dev, libqtscripte-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtscripte-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991900
+Auto-Installed: yes
+
+Package: gtk-doc-dev
+Version: 1.0-r3.5
+Depends: gtk-doc
+Recommends: gtk-doc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: libmpfr-dev
+Version: 2.3.1-r1.5
+Depends: libmpfr1, libmpfr1
+Recommends: libgmp-dev, libc6-dev, libmpfr-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991851
+Auto-Installed: yes
+
+Package: libqtwebkite4
+Version: 4.6.2-r18.1.5
+Depends: libphonone4, libqtdbuse4, libqtxmle4, libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991903
+Auto-Installed: yes
+
+Package: pam-plugin-nologin
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libxcursor1
+Version: 1:1.1.10-r2.5
+Depends: libxrender1, libxfixes3, libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991879
+Auto-Installed: yes
+
+Package: libgnutls-dev
+Version: 2.8.5-r0.5
+Depends: libgnutls26, libgnutlsxx26, libgnutls26, libgnutls-openssl26, libgnutls-extra26, libgnutls26, libz1, libgcrypt11, libgpg-error0, libc6
+Recommends: libz-dev, libgcrypt-dev, liblzo-dev, gettext-dev, gtk-doc-dev, libgnutls-dev, libgpg-error-dev, libc6-dev, gnutls-extra-dev, libstdc++-dev, libgcc-dev, gnutls-xx-dev, gnutls-openssl-dev, virtual-locale-fr-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-nl-dev, virtual-locale-vi-dev, virtual-locale-cs-dev, virtual-locale-en+quot-dev, virtual-locale-ms-dev, virtual-locale-en+boldquot-dev, virtual-locale-de-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991887
+Auto-Installed: yes
+
+Package: libqtdbuse4
+Version: 4.6.2-r18.1.5
+Depends: libqtxmle4, libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991852
+Auto-Installed: yes
+
+Package: libreadline-dev
+Version: 5.2-r6.5
+Depends: libreadline5, libreadline5
+Recommends: ncurses-dev, libc6-dev, libreadline-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991893
+Auto-Installed: yes
+
+Package: pam-plugin-stress
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libfontconfig-dev
+Version: 2.8.0-r0.5
+Depends: libfontconfig1, libfontconfig1
+Recommends: libexpat-dev, libfreetype-dev, libz-dev, libfontconfig-dev, libc6-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: glibc-extra-nss
+Version: 2.9-r35.3.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991847
+Auto-Installed: yes
+
+Package: libxext6
+Version: 1:1.1.1-r1.5
+Depends: libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991879
+Auto-Installed: yes
+
+Package: libqtnetworke-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtnetworke4, libqtcoree-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991895
+Auto-Installed: yes
+
+Package: libavahi-glib1
+Version: 0.6.25-r1.5
+Depends: libavahi-common3, libglib-2.0-0, libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991875
+Auto-Installed: yes
+
+Package: libssl0.9.8
+Version: 0.9.8m-r12.0.5
+Depends: libcrypto0.9.8, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libpng-dev
+Version: 1.2.42-r2.0.5
+Depends: libpng, libpng12-0
+Recommends: libz-dev, libc6-dev, libpng-dev, libpng12-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991858
+Auto-Installed: yes
+
+Package: libsm6
+Version: 1:1.1.1-r0.5
+Depends: libice6, libuuid1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: libqtwebkite-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtwebkite4, libqtcoree-dev, libqtguie-dev, libqtnetworke-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libphonone-dev, libqtdbuse-dev, libqtxmle-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991900
+Auto-Installed: yes
+
+Package: renderproto
+Version: 1:0.11-r0.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: libmad-dev
+Version: 0.15.1b-r5.5
+Depends: libmad0, libmad0
+Recommends: libid3tag-dev, libc6-dev, libmad-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: libacl1
+Version: 2.2.49-r1.5
+Depends: libattr1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libsysfs-dev
+Version: 2.1.0-r3.5
+Depends: libsysfs2
+Recommends: libc6-dev, libsysfs-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991859
+Auto-Installed: yes
+
+Package: pam-plugin-exec
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libpixman-1-dev
+Version: 0.18.0-r5.1.5
+Depends: libpixman-1-0, libpixman-1-0
+Recommends: libc6-dev, libgcc-dev, libpixman-1-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: libgstnetbuffer-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: libreadline5
+Version: 5.2-r6.5
+Depends: ncurses, libc6
+Provides: libreadline5
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991893
+Auto-Installed: yes
+
+Package: libgstpbutils-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: postgresql
+Version: 8.1.8-r4.5
+Depends: libpq4, libz1, libreadline5, libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991893
+Auto-Installed: yes
+
+Package: pam-plugin-deny
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: orbit2-dev
+Version: 2.14.17-r0.5
+Depends: orbit2, orbit2, libidl-2-dev, libglib-2.0-dev
+Recommends: libidl-2-dev, libpopt-dev, gtk-doc-dev, gobject-2.0-dev, gthread-2.0-dev, libc6-dev, gmodule-2.0-dev, libglib-2.0-dev, libgcc-dev, orbit2-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991890
+Auto-Installed: yes
+
+Package: pam-plugin-pwhistory
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libxfixes3
+Version: 1:4.0.4-r0.5
+Depends: libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991879
+Auto-Installed: yes
+
+Package: angstrom-feed-configs
+Version: 1.0-r9.5
+Recommends: opkg-nogpg-nocurl
+Provides:
+Status: install user installed
+Architecture: hawkboard
+Conffiles:
+ /etc/opkg/base-feed.conf 6a35115f4120c7a6cc42affee043b307
+ /etc/opkg/debug-feed.conf 773222f52b3515d516fb1cf307449736
+ /etc/opkg/perl-feed.conf c05542bc6fb20db569b4b252e4b77970
+ /etc/opkg/python-feed.conf 1ddd8b077f1f784ce0bddc46e0e4dcc1
+ /etc/opkg/gstreamer-feed.conf 4e70a591ee0c550f1b89964a17b99eee
+ /etc/opkg/hawkboard-feed.conf def32b3661a93acdbd0bf42e0fe753b1
+ /etc/opkg/noarch-feed.conf 39976a43be21717698931b4e4bcd237e
+ /etc/opkg/arch.conf b452db948fd9ad36e52619f0770a1139
+Installed-Time: 1271991929
+
+Package: libexpat-dev
+Version: 2.0.1-r3.5
+Depends: libexpat1, libexpat1
+Recommends: libgcc-dev, libc6-dev, libexpat-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991860
+Auto-Installed: yes
+
+Package: util-linux-ng-dev
+Version: 2.17-r21.1.5
+Depends: util-linux-ng, libuuid1, libblkid1
+Recommends: udev-dev, libz-dev, ncurses-dev, util-linux-ng-mountall-dev, util-linux-ng-umount-dev, util-linux-ng-swaponoff-dev, util-linux-ng-losetup-dev, util-linux-ng-fsck-dev, util-linux-ng-blkid-dev, libc6-dev, libgcc-dev, libuuid-dev, libblkid-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: pam-plugin-unix
+Version: 1.1.0-r1.5
+Depends: libc6, libpam
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991883
+Auto-Installed: yes
+
+Package: bigreqsproto-dev
+Version: 1:1.1.0-r1.5
+Depends: bigreqsproto
+Recommends: util-macros-dev, bigreqsproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libgnutls-openssl26
+Version: 2.8.5-r0.5
+Depends: libgnutls26, libz1, libgcrypt11, libgpg-error0, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991887
+Auto-Installed: yes
+
+Package: util-macros
+Version: 1:1.7.0-r2.0.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: util-linux-ng-fsck
+Version: 2.17-r21.1.5
+Depends: libblkid1, libuuid1, libc6
+Provides: e2fsprogs-fsck
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: libsegfault
+Version: 2.9-r35.3.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991848
+Auto-Installed: yes
+
+Package: gnome-vfs
+Version: 2.24.1-r2.5
+Depends: hicolor-icon-theme, libxml2, libc6, libgnutls26, libz1, libgcrypt11, libgpg-error0, libavahi-glib1, libavahi-client3, libavahi-common3, gconf, orbit2, libgmodule-2.0-0, libdbus-glib-1-2, libdbus-1-3, libgobject-2.0-0, libgthread-2.0-0, libglib-2.0-0
+Recommends: gnome-vfs-plugin-file, shared-mime-info
+Provides:
+Replaces: gnome-vfs-dbus
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991875
+Auto-Installed: yes
+
+Package: libgstinterfaces-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: libacl-dev
+Version: 2.2.49-r1.5
+Depends: libacl1, libacl1
+Recommends: libattr-dev, libc6-dev, libacl-dev, virtual-locale-fr-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-es-dev, virtual-locale-gl-dev, virtual-locale-de-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: gstreamer-dev
+Version: 0.10.28-r0.5
+Depends: gstreamer, gstreamer, libglib-2.0-dev, libxml2-dev
+Recommends: libxml2-dev, libglib-2.0-dev, libpopt-dev, libc6-dev, libz-dev, gobject-2.0-dev, gthread-2.0-dev, gmodule-2.0-dev, libgcc-dev, gstreamer-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-sq-dev, virtual-locale-ca-dev, virtual-locale-pl-dev, virtual-locale-eu-dev, virtual-locale-az-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-zh-cn-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-cs-dev, virtual-locale-en-gb-dev, virtual-locale-id-dev, virtual-locale-be-dev, virtual-locale-uk-dev, virtual-locale-fi-dev, virtual-locale-zh-tw-dev, virtual-locale-af-dev, virtual-locale-sr-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-ja-dev, virtual-locale-de-dev, virtual-locale-nb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991866
+Auto-Installed: yes
+
+Package: pkgconfig
+Version: 0.23-r8.3.5
+Depends: libglib-2.0-0, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991873
+Auto-Installed: yes
+
+Package: libdbus-glib-1-dev
+Version: 0.86-r1.0.5
+Depends: libdbus-glib-1-2, libdbus-glib-1-2, libdbus-glib-1-2, libdbus-1-3, libgobject-2.0-0, libgthread-2.0-0, libc6, libglib-2.0-0, libexpat1, dbus-dev, libglib-2.0-dev
+Recommends: libexpat-dev, libglib-2.0-dev, dbus-dev, dbus-lib-dev, gobject-2.0-dev, gthread-2.0-dev, libc6-dev, libdbus-glib-1-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991888
+Auto-Installed: yes
+
+Package: util-linux-ng-fdisk
+Version: 2.17-r21.1.5
+Depends: libblkid1, libuuid1, libgcc1, libc6
+Provides: util-linux-fdisk
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libgnutls26
+Version: 2.8.5-r0.5
+Depends: libz1, libgcrypt11, libgpg-error0, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991875
+Auto-Installed: yes
+
+Package: xextproto
+Version: 1:7.1.1-r0.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libqtscripte-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtscripte4, libqtcoree-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991898
+Auto-Installed: yes
+
+Package: libid3tag0
+Version: 0.15.1b-r2.5
+Depends: libz1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: libgettextsrc
+Version: 0.17-r6.5
+Depends: libgettextlib, libacl1, libattr1, ncurses, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991888
+Auto-Installed: yes
+
+Package: gettext
+Version: 0.17-r6.5
+Depends: libgettextsrc, libgettextlib, libacl1, libattr1, ncurses, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991888
+Auto-Installed: yes
+
+Package: libjasper1
+Version: 1.900.1-r0.5
+Depends: libc6, libjpeg62, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991890
+Auto-Installed: yes
+
+Package: libc6-dev
+Version: 2.9-r35.3.5
+Depends: linux-libc-headers-dev, glibc-extra-nss, libc6, libthread-db1
+Recommends: linux-libc-headers-dev, update-rc.d-dev, glibc-binary-localedata-ar-kw-dev, glibc-binary-localedata-nds-nl-dev, glibc-binary-localedata-fy-de-dev, glibc-binary-localedata-yi-us-dev, glibc-binary-localedata-be-by+latin-dev, glibc-binary-localedata-fa-ir-dev, glibc-binary-localedata-es-do-dev, glibc-binary-localedata-wo-sn-dev, glibc-binary-localedata-so-so-dev, glibc-binary-localedata-fr-ca-dev, glibc-binary-localedata-pl-pl-dev, glibc-binary-localedata-sa-in-dev, glibc-binary-localedata-es-mx-dev, glibc-binary-localedata-de-de-dev, glibc-binary-localedata-fr-ch-dev, glibc-binary-localedata-tg-tj-dev, glibc-binary-localedata-ms-my-dev, glibc-binary-localedata-an-es-dev, glibc-binary-localedata-de-lu-dev, glibc-binary-localedata-ko-kr-dev, glibc-binary-localedata-es-us-dev, glibc-binary-localedata-pa-in-dev, glibc-binary-localedata-ky-kg-dev, glibc-binary-localedata-ur-pk-dev, glibc-binary-localedata-rw-rw-dev, glibc-binary-localedata-en-ph-dev, glibc-binary-localedata-es-uy-dev, glibc-binary-localedata-en-ag-dev, glibc-binary-localedata-oc-fr-dev, glibc-binary-localedata-ar-lb-dev, glibc-binary-localedata-ug-cn-dev, glibc-binary-localedata-fil-ph-dev, glibc-binary-localedata-wa-be-dev, glibc-binary-localedata-en-au-dev, glibc-binary-localedata-dz-bt-dev, glibc-binary-localedata-pt-br-dev, glibc-binary-localedata-es-gt-dev, glibc-binary-localedata-aa-dj-dev, glibc-binary-localedata-ga-ie-dev, glibc-binary-localedata-bn-in-dev, glibc-binary-localedata-fr-be-dev, glibc-binary-localedata-crh-ua-dev, glibc-binary-localedata-en-hk-dev, glibc-binary-localedata-ar-sy-dev, glibc-binary-localedata-el-gr-dev, glibc-binary-localedata-uk-ua-dev, glibc-binary-localedata-nl-be-dev, glibc-binary-localedata-it-it-dev, glibc-binary-localedata-so-dj-dev, glibc-binary-localedata-ar-ly-dev, glibc-binary-localedata-ar-sa-dev, glibc-binary-localedata-ts-za-dev, glibc-binary-localedata-ar-qa-dev, glibc-binary-localedata-af-za-dev, glibc-binary-localedata-nr-za-dev, glibc-binary-localedata-so-ke-dev, glibc-binary-localedata-ar-iq-dev, glibc-binary-localedata-it-ch-dev, glibc-binary-localedata-pa-pk-dev, glibc-binary-localedata-ar-in-dev, glibc-binary-localedata-de-be-dev, glibc-binary-localedata-zh-cn-dev, glibc-binary-localedata-es-bo-dev, glibc-binary-localedata-sv-fi-dev, glibc-binary-localedata-li-nl-dev, glibc-binary-localedata-br-fr-dev, glibc-binary-localedata-yo-ng-dev, glibc-binary-localedata-fy-nl-dev, glibc-binary-localedata-zu-za-dev, glibc-binary-localedata-fo-fo-dev, glibc-binary-localedata-ar-ae-dev, glibc-binary-localedata-mt-mt-dev, glibc-binary-localedata-zh-tw-dev, glibc-binary-localedata-tn-za-dev, glibc-binary-localedata-es-sv-dev, glibc-binary-localedata-km-kh-dev, glibc-binary-localedata-bg-bg-dev, glibc-binary-localedata-en-gb-dev, glibc-binary-localedata-ne-np-dev, glibc-binary-localedata-es-es-dev, glibc-binary-localedata-fur-it-dev, glibc-binary-localedata-sl-si-dev, glibc-binary-localedata-lt-lt-dev, glibc-binary-localedata-ja-jp-dev, glibc-binary-localedata-kn-in-dev, glibc-binary-localedata-st-za-dev, glibc-binary-localedata-hi-in-dev, glibc-binary-localedata-es-ec-dev, glibc-binary-localedata-az-az-dev, glibc-binary-localedata-kk-kz-dev, glibc-binary-localedata-ca-es-dev, glibc-binary-localedata-ar-jo-dev, glibc-binary-localedata-ar-bh-dev, glibc-binary-localedata-zh-sg-dev, glibc-binary-localedata-be-by-dev, glibc-binary-localedata-ar-sd-dev, glibc-binary-localedata-ar-ye-dev, glibc-binary-localedata-nso-za-dev, glibc-binary-localedata-en-nz-dev, glibc-binary-localedata-mr-in-dev, glibc-binary-localedata-ig-ng-dev, glibc-binary-localedata-en-ng-dev, glibc-binary-localedata-nds-de-dev, glibc-binary-localedata-pt-pt-dev, glibc-binary-localedata-id-id-dev, glibc-binary-localedata-ve-za-dev, glibc-binary-localedata-as-in-dev, glibc-binary-localedata-lo-la-dev, glibc-binary-localedata-de-ch-dev, glibc-binary-localedata-en-dk-dev, glibc-binary-localedata-nb-no-dev, glibc-binary-localedata-tl-ph-dev, glibc-binary-localedata-gu-in-dev, glibc-binary-localedata-uz-uz+cyrillic-dev, glibc-binary-localedata-es-hn-dev, glibc-binary-localedata-sd-in+devanagari-dev, glibc-binary-localedata-se-no-dev, glibc-binary-localedata-ks-in+devanagari-dev, glibc-binary-localedata-ar-om-dev, glibc-binary-localedata-kl-gl-dev, glibc-binary-localedata-iu-ca-dev, glibc-binary-localedata-sq-al-dev, glibc-binary-localedata-tt-ru+iqtelif-dev, glibc-binary-localedata-nn-no-dev, glibc-binary-localedata-sd-in-dev, glibc-binary-localedata-da-dk-dev, glibc-binary-localedata-ru-ua-dev, glibc-binary-localedata-ca-it-dev, glibc-binary-localedata-en-ca-dev, glibc-binary-localedata-ru-ru-dev, glibc-binary-localedata-tk-tm-dev, glibc-binary-localedata-shs-ca-dev, glibc-binary-localedata-de-at-dev, glibc-binary-localedata-es-cr-dev, glibc-binary-localedata-es-cl-dev, glibc-binary-localedata-sr-rs+latin-dev, glibc-binary-localedata-es-co-dev, glibc-binary-localedata-lg-ug-dev, glibc-binary-localedata-bo-cn-dev, glibc-binary-localedata-tt-ru-dev, glibc-binary-localedata-iw-il-dev, glibc-binary-localedata-ro-ro-dev, glibc-binary-localedata-el-cy-dev, glibc-binary-localedata-sv-se-dev, glibc-binary-localedata-es-pa-dev, glibc-binary-localedata-lv-lv-dev, glibc-binary-localedata-en-us-dev, glibc-binary-localedata-ha-ng-dev, glibc-binary-localedata-es-pe-dev, glibc-binary-localedata-nl-nl-dev, glibc-binary-localedata-hsb-de-dev, glibc-binary-localedata-es-py-dev, glibc-binary-localedata-sr-rs-dev, glibc-binary-localedata-et-ee-dev, glibc-binary-localedata-csb-pl-dev, glibc-binary-localedata-fi-fi-dev, glibc-binary-localedata-fr-fr-dev, glibc-binary-localedata-sr-me-dev, glibc-binary-localedata-es-pr-dev, glibc-binary-localedata-ku-tr-dev, glibc-binary-localedata-he-il-dev, glibc-binary-localedata-en-zw-dev, glibc-binary-localedata-hy-am-dev, glibc-binary-localedata-ber-dz-dev, glibc-binary-localedata-eu-es-dev, glibc-binary-localedata-si-lk-dev, glibc-binary-localedata-ml-in-dev, glibc-binary-localedata-gl-es-dev, glibc-binary-localedata-en-za-dev, glibc-binary-localedata-mg-mg-dev, glibc-binary-localedata-ar-tn-dev, glibc-binary-localedata-bs-ba-dev, glibc-binary-localedata-ast-es-dev, glibc-binary-localedata-ar-ma-dev, glibc-binary-localedata-li-be-dev, glibc-binary-localedata-ca-fr-dev, glibc-binary-localedata-en-in-dev, glibc-binary-localedata-vi-vn-dev, glibc-binary-localedata-mk-mk-dev, glibc-binary-localedata-en-ie-dev, glibc-binary-localedata-sk-sk-dev, glibc-binary-localedata-fr-lu-dev, glibc-binary-localedata-cs-cz-dev, glibc-binary-localedata-gd-gb-dev, glibc-binary-localedata-cy-gb-dev, glibc-binary-localedata-mi-nz-dev, glibc-binary-localedata-pap-an-dev, glibc-binary-localedata-or-in-dev, glibc-binary-localedata-hr-hr-dev, glibc-binary-localedata-ar-dz-dev, glibc-binary-localedata-zh-hk-dev, glibc-binary-localedata-is-is-dev, glibc-binary-localedata-ar-eg-dev, glibc-binary-localedata-nl-aw-dev, glibc-binary-localedata-ca-ad-dev, glibc-binary-localedata-ht-ht-dev, glibc-binary-localedata-es-ar-dev, glibc-binary-localedata-hu-hu-dev, glibc-binary-localedata-ka-ge-dev, glibc-binary-localedata-tr-cy-dev, glibc-binary-localedata-es-ve-dev, glibc-binary-localedata-om-ke-dev, glibc-binary-localedata-mai-in-dev, glibc-binary-localedata-sc-it-dev, glibc-binary-localedata-ss-za-dev, glibc-binary-localedata-th-th-dev, glibc-binary-localedata-ta-in-dev, glibc-binary-localedata-en-sg-dev, glibc-binary-localedata-ik-ca-dev, glibc-binary-localedata-ber-ma-dev, glibc-binary-localedata-xh-za-dev, glibc-binary-localedata-en-bw-dev, glibc-binary-localedata-kw-gb-dev, glibc-binary-localedata-gv-gb-dev, glibc-binary-localedata-bo-in-dev, glibc-binary-localedata-es-ni-dev, libcidn-dev, libsegfault-dev, libc6-dev, glibc-extra-nss-dev, glibc-thread-db-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-ca-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-hr-dev, virtual-locale-zh-cn-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-locale.alias-dev, virtual-locale-cs-dev, virtual-locale-en-gb-dev, virtual-locale-id-dev, virtual-locale-be-dev, virtual-locale-fi-dev, virtual-locale-gl-dev, virtual-locale-zh-tw-dev, virtual-locale-el-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-lt-dev, virtual-locale-ja-dev, virtual-locale-de-dev, virtual-locale-nb-dev, glibc-gconv-dev, glibc-gconv-libjis-dev, glibc-gconv-libgb-dev, glibc-gconv-libksc-dev, glibc-gconv-libcns-dev, glibc-gconv-libjisx0213-dev, glibc-gconv-libisoir165-dev, glibc-localedata-i18n-dev, glibc-localedata-translit-combining-dev, glibc-localedata-dz-bt-dev, glibc-localedata-zh-cn-dev, glibc-localedata-iso14651-t1-dev, glibc-localedata-hi-in-dev, glibc-localedata-es-es-dev, glibc-localedata-sv-se-dev, glibc-localedata-fi-fi-dev, glibc-localedata-ga-ie-dev, glibc-localedata-sv-fi-dev, glibc-localedata-fi-fi+euro-dev, glibc-localedata-ru-ru-dev, glibc-localedata-translit-neutral-dev, glibc-localedata-nl-nl-dev, glibc-localedata-en-gb-dev, glibc-localedata-en-dk-dev, glibc-localedata-ar-eg-dev, glibc-localedata-tr-tr-dev, glibc-localedata-en-za-dev, glibc-localedata-el-gr-dev, glibc-localedata-ca-es-dev, glibc-localedata-be-by-dev, glibc-localedata-cs-cz-dev, glibc-localedata-pt-pt-dev, glibc-localedata-en-ca-dev, glibc-localedata-am-et-dev, glibc-localedata-ti-et-dev, glibc-localedata-nb-no-dev, glibc-localedata-iso14651-t1-common-dev, glibc-localedata-de-de-dev, glibc-localedata-ti-er-dev, glibc-localedata-fr-lu-dev, glibc-localedata-fr-fr-dev, glibc-localedata-en-nz-dev, glibc-localedata-en-us-dev, glibc-localedata-da-dk-dev, glibc-localedata-gl-es-dev, glibc-localedata-it-it-dev, glibc-localedata-fr-be-dev, glibc-localedata-en-ng-dev, glibc-localedata-translit-circle-dev, glibc-localedata-translit-cjk-compat-dev, glibc-localedata-translit-compat-dev, glibc-localedata-translit-font-dev, glibc-localedata-translit-fraction-dev, glibc-localedata-translit-narrow-dev, glibc-localedata-translit-small-dev, glibc-localedata-translit-wide-dev, glibc-localedata-translit-hangul-dev, glibc-localedata-de-be-dev, glibc-localedata-iso14651-t1-pinyin-dev, glibc-localedata-so-so-dev, glibc-localedata-om-et-dev, glibc-localedata-ur-pk-dev, glibc-localedata-br-fr-dev, glibc-localedata-de-lu-dev, glibc-localedata-gez-er-dev, glibc-localedata-sr-rs-dev, glibc-localedata-en-in-dev, glibc-localedata-nl-be-dev, glibc-localedata-eu-es-dev, glibc-localedata-es-us-dev, glibc-localedata-en-ie-dev, glibc-localedata-aa-er-dev, glibc-localedata-aa-et-dev, glibc-localedata-crh-ua-dev, glibc-localedata-bn-bd-dev, glibc-localedata-wa-be-dev, glibc-localedata-fr-be+euro-dev, glibc-localedata-pa-pk-dev, glibc-localedata-om-ke-dev, glibc-localedata-de-at-dev, glibc-localedata-translit-cjk-variants-dev, glibc-localedata-pl-pl-dev, glibc-localedata-aa-dj-dev, glibc-localedata-bo-cn-dev, glibc-localedata-gez-er+abegede-dev, glibc-localedata-gez-et-dev, glibc-localedata-tl-ph-dev
+Provides: libc6-dev, virtual-libc-dev
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991847
+Auto-Installed: yes
+
+Package: pango-module-basic-x
+Version: 1.24.4-r0.1.5
+Depends: pango, pango, libc6, libgobject-2.0-0, libgthread-2.0-0, libgmodule-2.0-0, libglib-2.0-0, libx11-6, libxau6, libxdmcp6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991871
+Auto-Installed: yes
+
+Package: libx11-dev
+Version: 1:1.3.3-r7.5
+Depends: libx11-6, libx11-6, xproto-dev, kbproto-dev
+Recommends: util-macros-dev, bigreqsproto-dev, xproto-dev, xextproto-dev, xtrans-dev, libxau-dev, xcmiscproto-dev, libxdmcp-dev, xf86bigfontproto-dev, kbproto-dev, inputproto-dev, libc6-dev, libx11-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: util-linux-ng-cfdisk
+Version: 2.17-r21.1.5
+Depends: ncurses, libgcc1, libc6
+Provides: util-linux-cfdisk
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libpixman-1-0
+Version: 0.18.0-r5.1.5
+Depends: libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991871
+Auto-Installed: yes
+
+Package: glibc-gconv-iso8859-1
+Version: 2.9-r35.3.5
+Depends: glibc-gconv, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: renderproto-dev
+Version: 1:0.11-r0.5
+Depends: renderproto
+Recommends: util-macros-dev, renderproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: pam-plugin-listfile
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libqtdesignere4
+Version: 4.6.2-r18.1.5
+Depends: libqtscripte4, libqtxmle4, libqtguie4, libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991898
+Auto-Installed: yes
+
+Package: gdk-pixbuf-loader-jpeg
+Version: 2.20.0-r8.0.5
+Depends: libjpeg62, gtk+, libgio-2.0-0, libc6, libz1, libgobject-2.0-0, libgmodule-2.0-0, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libjasper-dev
+Version: 1.900.1-r0.5
+Depends: libjasper1, libjasper1
+Recommends: libc6-dev, libjpeg-dev, libgcc-dev, libjasper-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991890
+Auto-Installed: yes
+
+Package: libgudev-1.0-0
+Version: 151-r9.5
+Depends: udev, libgobject-2.0-0, libgthread-2.0-0, libc6, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libgnutls-extra26
+Version: 2.8.5-r0.5
+Depends: libgnutls26, libz1, libgcrypt11, libgpg-error0, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991888
+Auto-Installed: yes
+
+Package: pam-plugin-tally
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: pam-plugin-debug
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: util-linux-ng-blkid
+Version: 2.17-r21.1.5
+Depends: libblkid1, libuuid1, libc6
+Provides: e2fsprogs-blkid
+Replaces: e2fsprogs-blkid
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: shared-mime-info-dev
+Version: 0.51-r2.5
+Depends: shared-mime-info
+Recommends: libxml2-dev, libglib-2.0-dev, shared-mime-info-dev, libc6-dev, freedesktop-mime-info-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-sq-dev, virtual-locale-ca-dev, virtual-locale-pl-dev, virtual-locale-eu-dev, virtual-locale-az-dev, virtual-locale-sv-dev, virtual-locale-pt-dev, virtual-locale-zh-cn-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-vi-dev, virtual-locale-cs-dev, virtual-locale-be+latin-dev, virtual-locale-en-gb-dev, virtual-locale-id-dev, virtual-locale-eo-dev, virtual-locale-uk-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-zh-tw-dev, virtual-locale-cy-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-ms-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-lt-dev, virtual-locale-ja-dev, virtual-locale-de-dev, virtual-locale-nb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991892
+Auto-Installed: yes
+
+Package: pam-plugin-localuser
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: udev
+Version: 151-r9.5
+Depends: udev-utils, update-rc.d, libc6, libacl1, libglib-2.0-0, libusb-0.1-4
+Provides: hotplug
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: liblzo-dev
+Version: 1.08-r15.5
+Depends: liblzo1, liblzo1
+Recommends: libc6-dev, liblzo-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991884
+Auto-Installed: yes
+
+Package: cdparanoia-dev
+Version: 10.2+svnr16684-r2.5
+Depends: cdparanoia, cdparanoia
+Recommends: libc6-dev, cdparanoia-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: postgresql-dev
+Version: 8.1.8-r4.5
+Depends: postgresql
+Recommends: libz-dev, libreadline-dev, libpq-dev, libc6-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991892
+Auto-Installed: yes
+
+Package: gdk-pixbuf-loader-png
+Version: 2.20.0-r8.0.5
+Depends: libpng12-0, gtk+, libgio-2.0-0, libc6, libz1, libgobject-2.0-0, libgmodule-2.0-0, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991880
+Auto-Installed: yes
+
+Package: task-sdk-bare
+Version: 1.0-r1.5
+Depends: libc6, glibc-dbg, virtual-libc-dev, glibc-utils, libsegfault, libthread-db1, libgcc1, libstdc++6, libstdc++-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991843
+Auto-Installed: yes
+
+Package: libgthread-2.0-0
+Version: 2.24.0-r3.5
+Depends: libc6, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991853
+Auto-Installed: yes
+
+Package: pam-plugin-issue
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libqtguie-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtguie4, libqtcoree-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, gthread-2.0-dev, libpng12-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991895
+Auto-Installed: yes
+
+Package: libxcomposite1
+Version: 1:0.4.1-r0.5
+Depends: libxfixes3, libxext6, libx11-6, libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991879
+Auto-Installed: yes
+
+Package: videoproto-dev
+Version: 1:2.3.0-r1.5
+Depends: videoproto
+Recommends: util-macros-dev, videoproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991892
+Auto-Installed: yes
+
+Package: libglib-2.0-dev
+Version: 2.24.0-r3.5
+Depends: libglib-2.0-0, libgmodule-2.0-0, libgthread-2.0-0, libgio-2.0-0, libgobject-2.0-0, libglib-2.0-0
+Recommends: gtk-doc-dev, libz-dev, gthread-2.0-dev, libc6-dev, libglib-2.0-dev, gobject-2.0-dev, gmodule-2.0-dev, libgcc-dev, gio-2.0-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-bg-dev, virtual-locale-hu-dev, virtual-locale-rw-dev, virtual-locale-sq-dev, virtual-locale-gu-dev, virtual-locale-en-ca-dev, virtual-locale-sr+latin-dev, virtual-locale-nds-dev, virtual-locale-ca-dev, virtual-locale-th-dev, virtual-locale-pl-dev, virtual-locale-fa-dev, virtual-locale-eu-dev, virtual-locale-mk-dev, virtual-locale-az-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-hy-dev, virtual-locale-pa-dev, virtual-locale-et-dev, virtual-locale-pt-dev, virtual-locale-hr-dev, virtual-locale-am-dev, virtual-locale-dz-dev, virtual-locale-zh-cn-dev, virtual-locale-bs-dev, virtual-locale-hi-dev, virtual-locale-ar-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-sr+ije-dev, virtual-locale-he-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-tl-dev, virtual-locale-ast-dev, virtual-locale-tt-dev, virtual-locale-bn-dev, virtual-locale-cs-dev, virtual-locale-en+shaw-dev, virtual-locale-be+latin-dev, virtual-locale-te-dev, virtual-locale-en-gb-dev, virtual-locale-ro-dev, virtual-locale-id-dev, virtual-locale-zh-hk-dev, virtual-locale-or-dev, virtual-locale-be-dev, virtual-locale-mg-dev, virtual-locale-mai-dev, virtual-locale-eo-dev, virtual-locale-uk-dev, virtual-locale-is-dev, virtual-locale-wa-dev, virtual-locale-ta-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-ne-dev, virtual-locale-mn-dev, virtual-locale-gl-dev, virtual-locale-ka-dev, virtual-locale-zh-tw-dev, virtual-locale-bn-in-dev, virtual-locale-oc-dev, virtual-locale-cy-dev, virtual-locale-af-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-xh-dev, virtual-locale-ms-dev, virtual-locale-mr-dev, virtual-locale-ml-dev, virtual-locale-si-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-lt-dev, virtual-locale-ja-dev, virtual-locale-lv-dev, virtual-locale-as-dev, virtual-locale-sl-dev, virtual-locale-ku-dev, virtual-locale-de-dev, virtual-locale-ps-dev, virtual-locale-kn-dev, virtual-locale-yi-dev, virtual-locale-ca+valencia-dev, virtual-locale-nb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: kbproto
+Version: 1:1.0.4-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libattr1
+Version: 2.4.44-r2.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libusb-0.1-dev
+Version: 1:0.1.3-r0.5
+Depends: libusb-0.1-4, libusb-0.1-4
+Recommends: libusb-1.0-dev, libc6-dev, libusb-0.1-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: videoproto
+Version: 1:2.3.0-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991892
+Auto-Installed: yes
+
+Package: pam-plugin-env
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: orbit2
+Version: 2.14.17-r0.5
+Depends: libgobject-2.0-0, libgthread-2.0-0, libc6, libgmodule-2.0-0, libglib-2.0-0, libidl-2-0, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991876
+Auto-Installed: yes
+
+Package: bzip2-dev
+Version: 1.0.5-r2.5
+Depends: bzip2, libbz2-1
+Recommends: libc6-dev, libbz2-dev, bzip2-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libfontconfig1
+Version: 2.8.0-r0.5
+Depends: libfreetype6, libexpat1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: pango
+Version: 1.24.4-r0.1.5
+Depends: hicolor-icon-theme, libxft2, libgobject-2.0-0, libgthread-2.0-0, libc6, libgmodule-2.0-0, libglib-2.0-0, libcairo2, libpixman-1-0, libfontconfig1, libfreetype6, libexpat1, libpng12-0, libxrender1, libx11-6, libxau6, libxdmcp6, libz1, libgcc1
+Recommends: pango-module-basic-x, pango-module-basic-fc
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: libcrypto0.9.8
+Version: 0.9.8m-r12.0.5
+Depends: libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991866
+Auto-Installed: yes
+
+Package: update-rc.d
+Version: 0.7-r1.5
+Provides:
+Status: install ok installed
+Architecture: all
+Installed-Time: 1271991844
+Auto-Installed: yes
+
+Package: libqtguie4
+Version: 4.6.2-r18.1.5
+Depends: libqtnetworke4, libqtcoree4, libglib-2.0-0, libc6, libgthread-2.0-0, libpng12-0, libz1, libfreetype6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991855
+Auto-Installed: yes
+
+Package: libqtdesignere-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtdesignere4, libqtxmle-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtscripte-dev, libqtxmle-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991898
+Auto-Installed: yes
+
+Package: libsysfs2
+Version: 2.1.0-r3.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991857
+Auto-Installed: yes
+
+Package: inputproto
+Version: 1:2.0-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: gtk-doc
+Version: 1.0-r3.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: gstreamer
+Version: 0.10.28-r0.5
+Depends: libglib-2.0-0, libc6, libxml2, libz1, libgobject-2.0-0, libgthread-2.0-0, libgmodule-2.0-0, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: libqtteste-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtteste4
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991900
+Auto-Installed: yes
+
+Package: flex
+Version: 2.5.35-r0.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: libxau-dev
+Version: 1:1.0.5-r0.5
+Depends: libxau6, libxau6, xproto-dev
+Recommends: util-macros-dev, xproto-dev, libc6-dev, libxau-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libcairo-dev
+Version: 1.8.10-r0.5
+Depends: libcairo2, libcairo2, libx11-dev, libpng-dev
+Recommends: libpixman-1-dev, libsm-dev, libpng-dev, libfontconfig-dev, libxrender-dev, libfreetype-dev, libexpat-dev, libpng12-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libz-dev, libgcc-dev, libcairo-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: qt4-embedded-mkspecs
+Version: 4.6.2-r18.1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991851
+Auto-Installed: yes
+
+Package: avahi-dev
+Version: 0.6.25-r1.5
+Depends: avahi, libavahi-client3, libavahi-common3, libavahi-glib1, libavahi-core6, libavahi-gobject0, libglib-2.0-dev
+Recommends: libexpat-dev, libdaemon-dev, dbus-dev, libglib-2.0-dev, update-rc.d-dev, libavahi-client-dev, dbus-lib-dev, libc6-dev, libavahi-glib-dev, libavahi-common-dev, gobject-2.0-dev, gthread-2.0-dev, sysvinit-pidof-dev, libavahi-core-dev, libgcc-dev, avahi-dev, libavahi-gobject-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-hu-dev, virtual-locale-en-ca-dev, virtual-locale-sr+latin-dev, virtual-locale-ca-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-zh-cn-dev, virtual-locale-es-dev, virtual-locale-en-gb-dev, virtual-locale-ro-dev, virtual-locale-en-au-dev, virtual-locale-en-nz-dev, virtual-locale-fi-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-ms-dev, virtual-locale-pt-br-dev, virtual-locale-de-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: opkg-nogpg-nocurl
+Version: 0.1.6+svnr527-r21.5
+Depends: libc6
+Provides: update-alternatives
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991929
+Auto-Installed: yes
+
+Package: glibc-dbg
+Version: 2.9-r35.3.5
+Recommends: libc6, glibc-binary-localedata-ar-kw-dbg, glibc-binary-localedata-nds-nl-dbg, glibc-binary-localedata-fy-de-dbg, glibc-binary-localedata-yi-us-dbg, glibc-binary-localedata-be-by+latin-dbg, glibc-binary-localedata-fa-ir-dbg, glibc-binary-localedata-es-do-dbg, glibc-binary-localedata-wo-sn-dbg, glibc-binary-localedata-so-so-dbg, glibc-binary-localedata-fr-ca-dbg, glibc-binary-localedata-pl-pl-dbg, glibc-binary-localedata-sa-in-dbg, glibc-binary-localedata-es-mx-dbg, glibc-binary-localedata-de-de-dbg, glibc-binary-localedata-fr-ch-dbg, glibc-binary-localedata-tg-tj-dbg, glibc-binary-localedata-ms-my-dbg, glibc-binary-localedata-an-es-dbg, glibc-binary-localedata-de-lu-dbg, glibc-binary-localedata-ko-kr-dbg, glibc-binary-localedata-es-us-dbg, glibc-binary-localedata-pa-in-dbg, glibc-binary-localedata-ky-kg-dbg, glibc-binary-localedata-ur-pk-dbg, glibc-binary-localedata-rw-rw-dbg, glibc-binary-localedata-en-ph-dbg, glibc-binary-localedata-es-uy-dbg, glibc-binary-localedata-en-ag-dbg, glibc-binary-localedata-oc-fr-dbg, glibc-binary-localedata-ar-lb-dbg, glibc-binary-localedata-ug-cn-dbg, glibc-binary-localedata-fil-ph-dbg, glibc-binary-localedata-wa-be-dbg, glibc-binary-localedata-en-au-dbg, glibc-binary-localedata-dz-bt-dbg, glibc-binary-localedata-pt-br-dbg, glibc-binary-localedata-es-gt-dbg, glibc-binary-localedata-aa-dj-dbg, glibc-binary-localedata-ga-ie-dbg, glibc-binary-localedata-bn-in-dbg, glibc-binary-localedata-fr-be-dbg, glibc-binary-localedata-crh-ua-dbg, glibc-binary-localedata-en-hk-dbg, glibc-binary-localedata-ar-sy-dbg, glibc-binary-localedata-el-gr-dbg, glibc-binary-localedata-uk-ua-dbg, glibc-binary-localedata-nl-be-dbg, glibc-binary-localedata-it-it-dbg, glibc-binary-localedata-so-dj-dbg, glibc-binary-localedata-ar-ly-dbg, glibc-binary-localedata-ar-sa-dbg, glibc-binary-localedata-ts-za-dbg, glibc-binary-localedata-ar-qa-dbg, glibc-binary-localedata-af-za-dbg, glibc-binary-localedata-nr-za-dbg, glibc-binary-localedata-so-ke-dbg, glibc-binary-localedata-ar-iq-dbg, glibc-binary-localedata-it-ch-dbg, glibc-binary-localedata-pa-pk-dbg, glibc-binary-localedata-ar-in-dbg, glibc-binary-localedata-de-be-dbg, glibc-binary-localedata-zh-cn-dbg, glibc-binary-localedata-es-bo-dbg, glibc-binary-localedata-sv-fi-dbg, glibc-binary-localedata-li-nl-dbg, glibc-binary-localedata-br-fr-dbg, glibc-binary-localedata-yo-ng-dbg, glibc-binary-localedata-fy-nl-dbg, glibc-binary-localedata-zu-za-dbg, glibc-binary-localedata-fo-fo-dbg, glibc-binary-localedata-ar-ae-dbg, glibc-binary-localedata-mt-mt-dbg, glibc-binary-localedata-zh-tw-dbg, glibc-binary-localedata-tn-za-dbg, glibc-binary-localedata-es-sv-dbg, glibc-binary-localedata-km-kh-dbg, glibc-binary-localedata-bg-bg-dbg, glibc-binary-localedata-en-gb-dbg, glibc-binary-localedata-ne-np-dbg, glibc-binary-localedata-es-es-dbg, glibc-binary-localedata-fur-it-dbg, glibc-binary-localedata-sl-si-dbg, glibc-binary-localedata-lt-lt-dbg, glibc-binary-localedata-ja-jp-dbg, glibc-binary-localedata-kn-in-dbg, glibc-binary-localedata-st-za-dbg, glibc-binary-localedata-hi-in-dbg, glibc-binary-localedata-es-ec-dbg, glibc-binary-localedata-az-az-dbg, glibc-binary-localedata-kk-kz-dbg, glibc-binary-localedata-ca-es-dbg, glibc-binary-localedata-ar-jo-dbg, glibc-binary-localedata-ar-bh-dbg, glibc-binary-localedata-zh-sg-dbg, glibc-binary-localedata-be-by-dbg, glibc-binary-localedata-ar-sd-dbg, glibc-binary-localedata-ar-ye-dbg, glibc-binary-localedata-nso-za-dbg, glibc-binary-localedata-en-nz-dbg, glibc-binary-localedata-mr-in-dbg, glibc-binary-localedata-ig-ng-dbg, glibc-binary-localedata-en-ng-dbg, glibc-binary-localedata-nds-de-dbg, glibc-binary-localedata-pt-pt-dbg, glibc-binary-localedata-id-id-dbg, glibc-binary-localedata-ve-za-dbg, glibc-binary-localedata-as-in-dbg, glibc-binary-localedata-lo-la-dbg, glibc-binary-localedata-de-ch-dbg, glibc-binary-localedata-en-dk-dbg, glibc-binary-localedata-nb-no-dbg, glibc-binary-localedata-tl-ph-dbg, glibc-binary-localedata-gu-in-dbg, glibc-binary-localedata-uz-uz+cyrillic-dbg, glibc-binary-localedata-es-hn-dbg, glibc-binary-localedata-sd-in+devanagari-dbg, glibc-binary-localedata-se-no-dbg, glibc-binary-localedata-ks-in+devanagari-dbg, glibc-binary-localedata-ar-om-dbg, glibc-binary-localedata-kl-gl-dbg, glibc-binary-localedata-iu-ca-dbg, glibc-binary-localedata-sq-al-dbg, glibc-binary-localedata-tt-ru+iqtelif-dbg, glibc-binary-localedata-nn-no-dbg, glibc-binary-localedata-sd-in-dbg, glibc-binary-localedata-da-dk-dbg, glibc-binary-localedata-ru-ua-dbg, glibc-binary-localedata-ca-it-dbg, glibc-binary-localedata-en-ca-dbg, glibc-binary-localedata-ru-ru-dbg, glibc-binary-localedata-tk-tm-dbg, glibc-binary-localedata-shs-ca-dbg, glibc-binary-localedata-de-at-dbg, glibc-binary-localedata-es-cr-dbg, glibc-binary-localedata-es-cl-dbg, glibc-binary-localedata-sr-rs+latin-dbg, glibc-binary-localedata-es-co-dbg, glibc-binary-localedata-lg-ug-dbg, glibc-binary-localedata-bo-cn-dbg, glibc-binary-localedata-tt-ru-dbg, glibc-binary-localedata-iw-il-dbg, glibc-binary-localedata-ro-ro-dbg, glibc-binary-localedata-el-cy-dbg, glibc-binary-localedata-sv-se-dbg, glibc-binary-localedata-es-pa-dbg, glibc-binary-localedata-lv-lv-dbg, glibc-binary-localedata-en-us-dbg, glibc-binary-localedata-ha-ng-dbg, glibc-binary-localedata-es-pe-dbg, glibc-binary-localedata-nl-nl-dbg, glibc-binary-localedata-hsb-de-dbg, glibc-binary-localedata-es-py-dbg, glibc-binary-localedata-sr-rs-dbg, glibc-binary-localedata-et-ee-dbg, glibc-binary-localedata-csb-pl-dbg, glibc-binary-localedata-fi-fi-dbg, glibc-binary-localedata-fr-fr-dbg, glibc-binary-localedata-sr-me-dbg, glibc-binary-localedata-es-pr-dbg, glibc-binary-localedata-ku-tr-dbg, glibc-binary-localedata-he-il-dbg, glibc-binary-localedata-en-zw-dbg, glibc-binary-localedata-hy-am-dbg, glibc-binary-localedata-ber-dz-dbg, glibc-binary-localedata-eu-es-dbg, glibc-binary-localedata-si-lk-dbg, glibc-binary-localedata-ml-in-dbg, glibc-binary-localedata-gl-es-dbg, glibc-binary-localedata-en-za-dbg, glibc-binary-localedata-mg-mg-dbg, glibc-binary-localedata-ar-tn-dbg, glibc-binary-localedata-bs-ba-dbg, glibc-binary-localedata-ast-es-dbg, glibc-binary-localedata-ar-ma-dbg, glibc-binary-localedata-li-be-dbg, glibc-binary-localedata-ca-fr-dbg, glibc-binary-localedata-en-in-dbg, glibc-binary-localedata-vi-vn-dbg, glibc-binary-localedata-mk-mk-dbg, glibc-binary-localedata-en-ie-dbg, glibc-binary-localedata-sk-sk-dbg, glibc-binary-localedata-fr-lu-dbg, glibc-binary-localedata-cs-cz-dbg, glibc-binary-localedata-gd-gb-dbg, glibc-binary-localedata-cy-gb-dbg, glibc-binary-localedata-mi-nz-dbg, glibc-binary-localedata-pap-an-dbg, glibc-binary-localedata-or-in-dbg, glibc-binary-localedata-hr-hr-dbg, glibc-binary-localedata-ar-dz-dbg, glibc-binary-localedata-zh-hk-dbg, glibc-binary-localedata-is-is-dbg, glibc-binary-localedata-ar-eg-dbg, glibc-binary-localedata-nl-aw-dbg, glibc-binary-localedata-ca-ad-dbg, glibc-binary-localedata-ht-ht-dbg, glibc-binary-localedata-es-ar-dbg, glibc-binary-localedata-hu-hu-dbg, glibc-binary-localedata-ka-ge-dbg, glibc-binary-localedata-tr-cy-dbg, glibc-binary-localedata-es-ve-dbg, glibc-binary-localedata-om-ke-dbg, glibc-binary-localedata-mai-in-dbg, glibc-binary-localedata-sc-it-dbg, glibc-binary-localedata-ss-za-dbg, glibc-binary-localedata-th-th-dbg, glibc-binary-localedata-ta-in-dbg, glibc-binary-localedata-en-sg-dbg, glibc-binary-localedata-ik-ca-dbg, glibc-binary-localedata-ber-ma-dbg, glibc-binary-localedata-xh-za-dbg, glibc-binary-localedata-en-bw-dbg, glibc-binary-localedata-kw-gb-dbg, glibc-binary-localedata-gv-gb-dbg, glibc-binary-localedata-bo-in-dbg, glibc-binary-localedata-es-ni-dbg, update-rc.d-dbg, libcidn-dbg, libsegfault-dbg, glibc-dbg, linux-libc-headers-dbg, glibc-extra-nss-dbg, glibc-thread-db-dbg, virtual-locale-it-dbg, virtual-locale-ru-dbg, virtual-locale-fr-dbg, virtual-locale-bg-dbg, virtual-locale-hu-dbg, virtual-locale-rw-dbg, virtual-locale-ca-dbg, virtual-locale-pl-dbg, virtual-locale-sv-dbg, virtual-locale-tr-dbg, virtual-locale-hr-dbg, virtual-locale-zh-cn-dbg, virtual-locale-ko-dbg, virtual-locale-es-dbg, virtual-locale-nl-dbg, virtual-locale-sk-dbg, virtual-locale-vi-dbg, virtual-locale-locale.alias-dbg, virtual-locale-cs-dbg, virtual-locale-en-gb-dbg, virtual-locale-id-dbg, virtual-locale-be-dbg, virtual-locale-fi-dbg, virtual-locale-gl-dbg, virtual-locale-zh-tw-dbg, virtual-locale-el-dbg, virtual-locale-da-dbg, virtual-locale-pt-br-dbg, virtual-locale-lt-dbg, virtual-locale-ja-dbg, virtual-locale-de-dbg, virtual-locale-nb-dbg, glibc-gconv-dbg, glibc-gconv-libjis-dbg, glibc-gconv-libgb-dbg, glibc-gconv-libksc-dbg, glibc-gconv-libcns-dbg, glibc-gconv-libjisx0213-dbg, glibc-gconv-libisoir165-dbg, glibc-localedata-i18n-dbg, glibc-localedata-translit-combining-dbg, glibc-localedata-dz-bt-dbg, glibc-localedata-zh-cn-dbg, glibc-localedata-iso14651-t1-dbg, glibc-localedata-hi-in-dbg, glibc-localedata-es-es-dbg, glibc-localedata-sv-se-dbg, glibc-localedata-fi-fi-dbg, glibc-localedata-ga-ie-dbg, glibc-localedata-sv-fi-dbg, glibc-localedata-fi-fi+euro-dbg, glibc-localedata-ru-ru-dbg, glibc-localedata-translit-neutral-dbg, glibc-localedata-nl-nl-dbg, glibc-localedata-en-gb-dbg, glibc-localedata-en-dk-dbg, glibc-localedata-ar-eg-dbg, glibc-localedata-tr-tr-dbg, glibc-localedata-en-za-dbg, glibc-localedata-el-gr-dbg, glibc-localedata-ca-es-dbg, glibc-localedata-be-by-dbg, glibc-localedata-cs-cz-dbg, glibc-localedata-pt-pt-dbg, glibc-localedata-en-ca-dbg, glibc-localedata-am-et-dbg, glibc-localedata-ti-et-dbg, glibc-localedata-nb-no-dbg, glibc-localedata-iso14651-t1-common-dbg, glibc-localedata-de-de-dbg, glibc-localedata-ti-er-dbg, glibc-localedata-fr-lu-dbg, glibc-localedata-fr-fr-dbg, glibc-localedata-en-nz-dbg, glibc-localedata-en-us-dbg, glibc-localedata-da-dk-dbg, glibc-localedata-gl-es-dbg, glibc-localedata-it-it-dbg, glibc-localedata-fr-be-dbg, glibc-localedata-en-ng-dbg, glibc-localedata-translit-circle-dbg, glibc-localedata-translit-cjk-compat-dbg, glibc-localedata-translit-compat-dbg, glibc-localedata-translit-font-dbg, glibc-localedata-translit-fraction-dbg, glibc-localedata-translit-narrow-dbg, glibc-localedata-translit-small-dbg, glibc-localedata-translit-wide-dbg, glibc-localedata-translit-hangul-dbg, glibc-localedata-de-be-dbg, glibc-localedata-iso14651-t1-pinyin-dbg, glibc-localedata-so-so-dbg, glibc-localedata-om-et-dbg, glibc-localedata-ur-pk-dbg, glibc-localedata-br-fr-dbg, glibc-localedata-de-lu-dbg, glibc-localedata-gez-er-dbg, glibc-localedata-sr-rs-dbg, glibc-localedata-en-in-dbg, glibc-localedata-nl-be-dbg, glibc-localedata-eu-es-dbg, glibc-localedata-es-us-dbg, glibc-localedata-en-ie-dbg, glibc-localedata-aa-er-dbg, glibc-localedata-aa-et-dbg, glibc-localedata-crh-ua-dbg, glibc-localedata-bn-bd-dbg, glibc-localedata-wa-be-dbg, glibc-localedata-fr-be+euro-dbg, glibc-localedata-pa-pk-dbg, glibc-localedata-om-ke-dbg, glibc-localedata-de-at-dbg, glibc-localedata-translit-cjk-variants-dbg, glibc-localedata-pl-pl-dbg, glibc-localedata-aa-dj-dbg, glibc-localedata-bo-cn-dbg, glibc-localedata-gez-er+abegede-dbg, glibc-localedata-gez-et-dbg, glibc-localedata-tl-ph-dbg
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991845
+Auto-Installed: yes
+
+Package: pam-plugin-timestamp
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libgcrypt-dev
+Version: 1.4.1-r0.5
+Depends: libgcrypt11, libgcrypt11
+Recommends: libgpg-error-dev, libc6-dev, libgcrypt-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991885
+Auto-Installed: yes
+
+Package: libz-dev
+Version: 1.2.3-r5.5
+Depends: libz1, libz1
+Recommends: libc6-dev, libz-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991859
+Auto-Installed: yes
+
+Package: pam-plugin-lastlog
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: libavahi-client3
+Version: 0.6.25-r1.5
+Depends: libdbus-1-3, libc6, libavahi-common3
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991876
+Auto-Installed: yes
+
+Package: udev-dev
+Version: 151-r9.5
+Depends: udev, udev, libgudev-1.0-0, libglib-2.0-dev
+Recommends: usbutils-dev, libacl-dev, libglib-2.0-dev, update-rc.d-dev, udev-dev, gobject-2.0-dev, gthread-2.0-dev, libc6-dev, udev-utils-dev, libusb-0.1-dev, libgudev-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991863
+Auto-Installed: yes
+
+Package: libz1
+Version: 1.2.3-r5.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991853
+Auto-Installed: yes
+
+Package: libts-1.0-dev
+Version: 1.0-r23.5.5
+Depends: libts-1.0-0
+Recommends: pointercal, tslib-conf-dev, libc6-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991859
+Auto-Installed: yes
+
+Package: libpopt-dev
+Version: 1.14-r2.5
+Depends: libpopt0, libpopt0
+Recommends: libgcc-dev, libc6-dev, libpopt-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-hu-dev, virtual-locale-th-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-pt-dev, virtual-locale-zh-cn-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-cs-dev, virtual-locale-ro-dev, virtual-locale-uk-dev, virtual-locale-is-dev, virtual-locale-wa-dev, virtual-locale-fi-dev, virtual-locale-gl-dev, virtual-locale-zh-tw-dev, virtual-locale-da-dev, virtual-locale-ja-dev, virtual-locale-sl-dev, virtual-locale-de-dev, virtual-locale-nb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: libcidn1
+Version: 2.9-r35.3.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991844
+Auto-Installed: yes
+
+Package: libusb-1.0-dev
+Version: 1.0.4-r1.5
+Depends: libusb-1.0-0, libusb-1.0-0
+Recommends: libc6-dev, libusb-1.0-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: libglib-2.0-0
+Version: 2.24.0-r3.5
+Depends: libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991853
+Auto-Installed: yes
+
+Package: libx11-6
+Version: 1:1.3.3-r7.5
+Depends: libxau6, libxdmcp6, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: pam-plugin-namespace
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libcupsimage
+Version: 1.2.12-r7.1.5
+Depends: libpng12-0, libc6, libjpeg62, libz1, libcups2, libgnutls26
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991887
+Auto-Installed: yes
+
+Package: libtiff5
+Version: 3.9.2+4.0.0beta5-r3.5
+Depends: libjpeg62, libz1, libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991884
+Auto-Installed: yes
+
+Package: libqthelpe-dev
+Version: 4.6.2-r18.1.5
+Depends: libqthelpe4, libqtnetworke-dev, libqtsqle-dev, libqtxmle-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtsqle-dev, libqtxmle-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, libqtclucenee-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991899
+Auto-Installed: yes
+
+Package: dbus-dev
+Version: 1.2.24-r0.5
+Depends: dbus, libdbus-1-3
+Recommends: libexpat-dev, libglib-2.0-dev, libsm-dev, libice-dev, update-rc.d-dev, libc6-dev, dbus-dev, libuuid-dev, libx11-dev, libxau-dev, libxdmcp-dev, dbus-lib-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991860
+Auto-Installed: yes
+
+Package: libattr-dev
+Version: 2.4.44-r2.5
+Depends: libattr1, libattr1
+Recommends: libc6-dev, libattr-dev, virtual-locale-fr-dev, virtual-locale-pl-dev, virtual-locale-sv-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-cs-dev, virtual-locale-gl-dev, virtual-locale-de-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: libqtcoree4
+Version: 4.6.2-r18.1.5
+Depends: libglib-2.0-0, libc6, libz1, libgthread-2.0-0, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991853
+Auto-Installed: yes
+
+Package: libid3tag-dev
+Version: 0.15.1b-r2.5
+Depends: libid3tag0, libid3tag0
+Recommends: libz-dev, libc6-dev, libid3tag-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: libgmp-dev
+Version: 4.2.4-r0.5.5
+Depends: libgmp3, libgmp3
+Recommends: libc6-dev, libgmp-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991851
+Auto-Installed: yes
+
+Package: ncurses-dev
+Version: 5.4-r19.5
+Depends: ncurses, ncurses
+Recommends: ncurses-dev, libc6-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: hicolor-icon-theme-dev
+Version: 0.11-r0.5
+Depends: hicolor-icon-theme
+Recommends: hicolor-icon-theme-dev
+Provides:
+Status: install ok installed
+Architecture: all
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: cdparanoia
+Version: 10.2+svnr16684-r2.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: libgcc1
+Version: 4.3.3-r11.1.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991849
+Auto-Installed: yes
+
+Package: pam-plugin-limits
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libsqlite0
+Version: 2.8.17-r5.5
+Depends: libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991894
+Auto-Installed: yes
+
+Package: ncurses
+Version: 5.4-r19.5
+Depends: libc6
+Suggests: ncurses-terminfo
+Provides: libncurses5
+Replaces: libncurses5
+Conflicts: libncurses5
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: libcups2
+Version: 1.2.12-r7.1.5
+Depends: libgnutls26, libc6, libz1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991887
+Auto-Installed: yes
+
+Package: policykit-dev
+Version: 0.96-r2.5
+Depends: policykit, policykit
+Recommends: eggdbus-dev, libpam-dev, libexpat-dev, libdbus-glib-1-dev, gobject-2.0-dev, libglib-2.0-dev, libc6-dev, dbus-lib-dev, gio-2.0-dev, libz-dev, gmodule-2.0-dev, gthread-2.0-dev, policykit-dev, virtual-locale-da-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: gst-plugins-base
+Version: 0.10.28-r7.1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: xextproto-dev
+Version: 1:7.1.1-r0.5
+Depends: xextproto
+Recommends: util-macros-dev, xextproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libexpat1
+Version: 2.0.1-r3.5
+Depends: libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991860
+Auto-Installed: yes
+
+Package: task-qte-toolchain-target
+Version: 1.0-r2.5
+Depends: task-sdk-bare, qt4-embedded-mkspecs, libphonone-dev, libqt3supporte-dev, libqtassistantcliente-dev, libqtclucenee-dev, libqtcoree-dev, libqtdbuse-dev, libqtdesignercomponentse-dev, libqtdesignere-dev, libqt-embeddeduitools4-dev, libqtguie-dev, libqthelpe-dev, libqtnetworke-dev, libqtscripte-dev, libqtscripttoolse-dev, libqtsqle-dev, libqtsvge-dev, libqtteste-dev, libqtwebkite-dev, libqtxmle-dev, libmysqlclient-dev, libsqlite-dev, libsqlite3-dev, libts-dev, libexpat-dev
+Provides:
+Status: install user installed
+Architecture: armv5te
+Installed-Time: 1271991929
+
+Package: xproto
+Version: 1:7.0.16-r0.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: eggdbus-dev
+Version: 0.6-r0.5
+Depends: eggdbus, eggdbus, libglib-2.0-dev
+Recommends: dbus-dev, libglib-2.0-dev, libdbus-glib-1-dev, libc6-dev, dbus-lib-dev, gobject-2.0-dev, gio-2.0-dev, libz-dev, gmodule-2.0-dev, gthread-2.0-dev, eggdbus-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libvorbisidec-dev
+Version: 20041119-r1.5
+Depends: libvorbisidec1, libvorbisidec1
+Recommends: libogg-dev, libgcc-dev, libc6-dev, libvorbisidec-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: ttf-dejavu-common
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common
+Provides:
+Status: install ok installed
+Architecture: all
+Installed-Time: 1271991880
+Auto-Installed: yes
+
+Package: inputproto-dev
+Version: 1:2.0-r1.5
+Depends: inputproto
+Recommends: util-macros-dev, inputproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: gettext-dev
+Version: 0.17-r6.5
+Depends: gettext, gettext, libgettextsrc, libgettextlib
+Recommends: ncurses-dev, libexpat-dev, libacl-dev, libattr-dev, libc6-dev, libgcc-dev, libgettextlib-dev, libgettextsrc-dev, gettext-dev, gettext-libintl-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-ca-dev, virtual-locale-pl-dev, virtual-locale-eu-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-et-dev, virtual-locale-pt-dev, virtual-locale-zh-cn-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-cs-dev, virtual-locale-en+quot-dev, virtual-locale-ro-dev, virtual-locale-id-dev, virtual-locale-zh-hk-dev, virtual-locale-be-dev, virtual-locale-eo-dev, virtual-locale-uk-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-gl-dev, virtual-locale-zh-tw-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-en+boldquot-dev, virtual-locale-ja-dev, virtual-locale-sl-dev, virtual-locale-de-dev, virtual-locale-nb-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991888
+Auto-Installed: yes
+
+Package: pam-plugin-faildelay
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libasound2
+Version: 1.0.20-r3.5
+Depends: alsa-conf-base, libc6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991874
+Auto-Installed: yes
+
+Package: libgstriff-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: libgstaudio-0.10-0, libgstinterfaces-0.10-0, libgsttag-0.10-0, gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: util-linux-ng-losetup
+Version: 2.17-r21.1.5
+Depends: libc6
+Provides: util-linux-losetup
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: libpng12-0
+Version: 1.2.42-r2.0.5
+Depends: libz1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991856
+Auto-Installed: yes
+
+Package: libgstaudio-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgstinterfaces-0.10-0, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991868
+Auto-Installed: yes
+
+Package: bigreqsproto
+Version: 1:1.1.0-r1.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: pam-plugin-keyinit
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libqtdesignercomponentse-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtdesignercomponentse4, libqtcoree-dev, libqtdesignere-dev, libqtguie-dev, libqtxmle-dev, libqtscripte-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtscripte-dev, libqtxmle-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libqtdesignere-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991896
+Auto-Installed: yes
+
+Package: libtheora-dev
+Version: 1.1.1-r3.0.5
+Depends: libtheora0, libtheora0
+Recommends: pkgconfig-dev, libogg-dev, libgcc-dev, libc6-dev, libtheora-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991872
+Auto-Installed: yes
+
+Package: libgsttag-0.10-0
+Version: 0.10.28-r7.1.5
+Depends: gstreamer, libgobject-2.0-0, libgmodule-2.0-0, libxml2, libc6, libz1, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: xtrans-dev
+Version: 1:1.2.5-r0.5
+Recommends: util-macros-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991862
+Auto-Installed: yes
+
+Package: libgmp3
+Version: 4.2.4-r0.5.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991851
+Auto-Installed: yes
+
+Package: libgettextlib
+Version: 0.17-r6.5
+Depends: libacl1, libattr1, libc6, ncurses, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991888
+Auto-Installed: yes
+
+Package: libqtclucenee4
+Version: 4.6.2-r18.1.5
+Depends: libqtcoree4, libglib-2.0-0, libc6, libstdc++6, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991896
+Auto-Installed: yes
+
+Package: libcairo2
+Version: 1.8.10-r0.5
+Depends: libpixman-1-0, libfontconfig1, libfreetype6, libexpat1, libpng12-0, libxrender1, libx11-6, libxau6, libxdmcp6, libc6, libz1, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991871
+Auto-Installed: yes
+
+Package: libxau6
+Version: 1:1.0.5-r0.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991864
+Auto-Installed: yes
+
+Package: libgpg-error0
+Version: 1.4-r7.1.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991875
+Auto-Installed: yes
+
+Package: libfreetype-dev
+Version: 2.3.9-r1.5
+Depends: libfreetype6, libfreetype6
+Recommends: libc6-dev, libfreetype-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991859
+Auto-Installed: yes
+
+Package: libxext-dev
+Version: 1:1.1.1-r1.5
+Depends: libxext6, libxext6, xextproto-dev
+Recommends: util-macros-dev, xproto-dev, xextproto-dev, libxau-dev, libx11-dev, libxdmcp-dev, libc6-dev, libxext-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991885
+Auto-Installed: yes
+
+Package: libmysqlclient16
+Version: 5.1.40-r2.5
+Depends: libc6, libz1, libgcc1
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991928
+Auto-Installed: yes
+
+Package: libvorbis0
+Version: 1.2.3-r2.1.5
+Depends: libc6, libogg0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: pam-plugin-succeed-if
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991882
+Auto-Installed: yes
+
+Package: pam-plugin-loginuid
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libqtassistantcliente-dev
+Version: 4.6.2-r18.1.5
+Depends: libqtassistantcliente4, libqtnetworke-dev
+Recommends: directfb-dev, libts-1.0-dev, libfreetype-dev, libjpeg-dev, libpng-dev, libz-dev, dbus-dev, openssl-dev, libglib-2.0-dev, gstreamer-dev, gst-plugins-base-dev, mysql-dev, postgresql-dev, libsqlite-dev, sqlite3-dev, libqtguie-dev, libqtnetworke-dev, libqtcoree-dev, libc6-dev, libstdc++-dev, libgcc-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991896
+Auto-Installed: yes
+
+Package: libsqlite3-dev
+Version: 3.6.20-r0.5
+Depends: libsqlite3-0
+Recommends: libreadline-dev, ncurses-dev, libc6-dev, libgcc-dev, libsqlite3-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991928
+Auto-Installed: yes
+
+Package: libpopt0
+Version: 1.14-r2.5
+Depends: libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991867
+Auto-Installed: yes
+
+Package: gnome-common
+Version: 2.28.0-r0.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libdbus-glib-1-2
+Version: 0.86-r1.0.5
+Depends: libdbus-1-3, libgobject-2.0-0, libgthread-2.0-0, libc6, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991876
+Auto-Installed: yes
+
+Package: gdk-pixbuf-loader-gif
+Version: 2.20.0-r8.0.5
+Depends: gtk+, libgio-2.0-0, libc6, libz1, libgobject-2.0-0, libgmodule-2.0-0, libgthread-2.0-0, libglib-2.0-0
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: xproto-dev
+Version: 1:7.0.16-r0.5
+Depends: xproto
+Recommends: util-macros-dev, xproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991861
+Auto-Installed: yes
+
+Package: libdaemon0
+Version: 0.13-r0.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libidl-2-dev
+Version: 0.8.13-r0.5
+Depends: libidl-2-0, libidl-2-0, libglib-2.0-dev
+Recommends: libglib-2.0-dev, libgcc-dev, libc6-dev, libidl-2-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991890
+Auto-Installed: yes
+
+Package: libmpfr1
+Version: 2.3.1-r1.5
+Depends: libgmp3, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991851
+Auto-Installed: yes
+
+Package: pango-dev
+Version: 1.24.4-r0.1.5
+Depends: pango, pango, libxft-dev, libglib-2.0-dev, libfreetype-dev, libfontconfig-dev, libcairo-dev
+Recommends: libglib-2.0-dev, libfontconfig-dev, libfreetype-dev, libz-dev, libxft-dev, gtk-doc-dev, libcairo-dev, hicolor-icon-theme-dev, gobject-2.0-dev, gthread-2.0-dev, libc6-dev, gmodule-2.0-dev, libpixman-1-dev, libexpat-dev, libpng12-dev, libxrender-dev, libx11-dev, libxau-dev, libxdmcp-dev, libgcc-dev, pango-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991870
+Auto-Installed: yes
+
+Package: libogg0
+Version: 1.1.4-r4.0.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991869
+Auto-Installed: yes
+
+Package: libjpeg62
+Version: 6b-r9.5
+Depends: libc6
+Provides: libjpeg62
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991857
+Auto-Installed: yes
+
+Package: compositeproto
+Version: 1:0.4.1-r0.5
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+
+Package: pam-plugin-mkhomedir
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: xcmiscproto-dev
+Version: 1:1.2.0-r1.5
+Depends: xcmiscproto
+Recommends: util-macros-dev, xcmiscproto-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991865
+Auto-Installed: yes
+
+Package: libavahi-core6
+Version: 0.6.25-r1.5
+Depends: libavahi-common3, libgcc1, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991891
+Auto-Installed: yes
+
+Package: libfreetype6
+Version: 2.3.9-r1.5
+Depends: libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991856
+Auto-Installed: yes
+
+Package: pam-plugin-ftp
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: pam-plugin-xauth
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: pam-plugin-shells
+Version: 1.1.0-r1.5
+Depends: libpam, libc6
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991881
+Auto-Installed: yes
+
+Package: libxdamage-dev
+Version: 1:1.1.2-r1.5
+Depends: libxdamage1, libxdamage1
+Recommends: util-macros-dev, damageproto-dev, libxfixes-dev, libx11-dev, libxau-dev, libxdmcp-dev, libc6-dev, libxdamage-dev
+Provides:
+Status: install ok installed
+Architecture: armv5te
+Installed-Time: 1271991889
+Auto-Installed: yes
+

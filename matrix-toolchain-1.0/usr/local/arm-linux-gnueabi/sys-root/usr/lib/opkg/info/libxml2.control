@@ -1,0 +1,12 @@
+Package: libxml2
+Version: 2.7.7-r8.0.5
+Description: GNOME XML Parser library
+Section: libs
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: MIT
+Architecture: armv5te
+OE: libxml2
+Homepage: unknown
+Depends: libc6, libz1
+Source: ftp://xmlsoft.org/libxml2/libxml2-2.7.7.tar.gz;name=archive

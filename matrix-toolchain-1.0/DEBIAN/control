@@ -1,0 +1,8 @@
+Package: matrix-toolchain
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: 
+Maintainer: Hans Kramer <hans@casper.aero>
+Description: Cross compiling for the Matrix 504D

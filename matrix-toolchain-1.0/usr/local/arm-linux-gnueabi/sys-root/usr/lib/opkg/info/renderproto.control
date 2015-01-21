@@ -1,0 +1,11 @@
+Package: renderproto
+Version: 1:0.11-r0.5
+Description: X protocol headers: ${XORG_PN}
+Section: x11/libs
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: MIT-X
+Architecture: armv5te
+OE: renderproto
+Homepage: http://www.x.org
+Source: http://xorg.freedesktop.org/releases/individual/proto/renderproto-0.11.tar.bz2;name=archive

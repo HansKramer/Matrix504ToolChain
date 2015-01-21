@@ -1,0 +1,13 @@
+Package: postgresql-dev
+Version: 8.1.8-r4.5
+Description: PostgreSQL is a powerful, open source relational database system.
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: BSD
+Architecture: armv5te
+OE: postgresql
+Homepage: http://www.postgresql.com
+Depends: postgresql
+Recommends: libz-dev, libreadline-dev, libpq-dev, libc6-dev, libgcc-dev
+Source: ftp://ftp-archives.postgresql.org/pub/source/v8.1.8/postgresql-8.1.8.tar.bz2

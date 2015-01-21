@@ -1,0 +1,361 @@
+Package: fbset-modes-dbg
+Version: 0.1.0-r4.5
+Recommends: fbset-modes, fbset-modes-dbg
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 98ef19528e626ff12b63f4be4ac5aa46
+Size: 670
+Filename: fbset-modes-dbg_0.1.0-r4.5_all.ipk
+Source: file://fb.modes
+Description: Default display timings and resolutions for fbset
+OE: fbset-modes
+HomePage: unknown
+Priority: optional
+
+
+Package: fbset-modes-dev
+Version: 0.1.0-r4.5
+Depends: fbset-modes
+Recommends: fbset-modes-dev
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: bed733fd36721986c960f6e955df3a52
+Size: 678
+Filename: fbset-modes-dev_0.1.0-r4.5_all.ipk
+Source: file://fb.modes
+Description: Default display timings and resolutions for fbset
+OE: fbset-modes
+HomePage: unknown
+Priority: optional
+
+
+Package: fbset-modes
+Version: 0.1.0-r4.5
+Section: base
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f687fff4f9e6b32b9b1d554c6c695694
+Size: 818
+Filename: fbset-modes_0.1.0-r4.5_all.ipk
+Source: file://fb.modes
+Description: Default display timings and resolutions for fbset
+OE: fbset-modes
+HomePage: unknown
+Priority: optional
+
+
+Package: font-update-common-dbg
+Version: 0.1-r0.5
+Recommends: font-update-common, font-update-common-dbg
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 981b5a8d3d59d701e162595f1b9eacc7
+Size: 704
+Filename: font-update-common-dbg_0.1-r0.5_all.ipk
+Source: file://update-fonts
+Description: Scripts to be called when fonts are installed or removed to make them known to the WM, whether X11 or Opie
+OE: font-update-common
+HomePage: unknown
+Priority: optional
+
+
+Package: font-update-common-dev
+Version: 0.1-r0.5
+Depends: font-update-common
+Recommends: font-update-common-dev
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7a2902edfe940290c485d8adc955e3a6
+Size: 710
+Filename: font-update-common-dev_0.1-r0.5_all.ipk
+Source: file://update-fonts
+Description: Scripts to be called when fonts are installed or removed to make them known to the WM, whether X11 or Opie
+OE: font-update-common
+HomePage: unknown
+Priority: optional
+
+
+Package: font-update-common
+Version: 0.1-r0.5
+Section: base
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 888ee1f4a6bc1f9b90e931ddf9b1ac9e
+Size: 852
+Filename: font-update-common_0.1-r0.5_all.ipk
+Source: file://update-fonts
+Description: Scripts to be called when fonts are installed or removed to make them known to the WM, whether X11 or Opie
+OE: font-update-common
+HomePage: unknown
+Priority: optional
+
+
+Package: hicolor-icon-theme-dbg
+Version: 0.11-r0.5
+Recommends: hicolor-icon-theme, hicolor-icon-theme-dbg
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d4419f3be61dc8ba508c90a27aef05df
+Size: 684
+Filename: hicolor-icon-theme-dbg_0.11-r0.5_all.ipk
+Source: http://icon-theme.freedesktop.org/releases/hicolor-icon-theme-0.11.tar.gz
+Description: Version 0.11-r0 of package hicolor-icon-theme
+OE: hicolor-icon-theme
+HomePage: unknown
+Priority: optional
+
+
+Package: hicolor-icon-theme-dev
+Version: 0.11-r0.5
+Depends: hicolor-icon-theme
+Recommends: hicolor-icon-theme-dev
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 962162efd33fdf2332da5e8944434367
+Size: 686
+Filename: hicolor-icon-theme-dev_0.11-r0.5_all.ipk
+Source: http://icon-theme.freedesktop.org/releases/hicolor-icon-theme-0.11.tar.gz
+Description: Version 0.11-r0 of package hicolor-icon-theme
+OE: hicolor-icon-theme
+HomePage: unknown
+Priority: optional
+
+
+Package: hicolor-icon-theme
+Version: 0.11-r0.5
+Section: unknown
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d21b9b89725d89a967f6557442df4eb5
+Size: 7728
+Filename: hicolor-icon-theme_0.11-r0.5_all.ipk
+Source: http://icon-theme.freedesktop.org/releases/hicolor-icon-theme-0.11.tar.gz
+Description: Version 0.11-r0 of package hicolor-icon-theme
+OE: hicolor-icon-theme
+HomePage: unknown
+Priority: optional
+
+
+Package: ttf-dejavu-common
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common
+Section: fonts
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 3baacf292740c8a7e0c07ae0c8f0e163
+Size: 1040
+Filename: ttf-dejavu-common_2.23-r2.5_all.ipk
+Source: http://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.23.tar.bz2 file://30-dejavu-aliases.conf
+Description: DejaVu font - TTF Edition
+OE: ttf-dejavu
+HomePage: http://dejavu.sourceforge.net/wiki/
+Priority: optional
+
+
+Package: ttf-dejavu-dbg
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common, ttf-dejavu-common-dbg
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: c3f2ab2df7552a5935895fadf521c4a5
+Size: 788
+Filename: ttf-dejavu-dbg_2.23-r2.5_all.ipk
+Source: http://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.23.tar.bz2 file://30-dejavu-aliases.conf
+Description: DejaVu font - TTF Edition
+OE: ttf-dejavu
+HomePage: http://dejavu.sourceforge.net/wiki/
+Priority: optional
+
+
+Package: ttf-dejavu-sans-condensed
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common
+Section: fonts
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: dce97b2c5c9a67b3efe02eeeedf673ee
+Size: 1073976
+Filename: ttf-dejavu-sans-condensed_2.23-r2.5_all.ipk
+Source: http://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.23.tar.bz2 file://30-dejavu-aliases.conf
+Description: DejaVu font - TTF Edition
+OE: ttf-dejavu
+HomePage: http://dejavu.sourceforge.net/wiki/
+Priority: optional
+
+
+Package: ttf-dejavu-sans-mono
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common
+Section: fonts
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 30f385106412aa8e68c84a2810d79d95
+Size: 612026
+Filename: ttf-dejavu-sans-mono_2.23-r2.5_all.ipk
+Source: http://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.23.tar.bz2 file://30-dejavu-aliases.conf
+Description: DejaVu font - TTF Edition
+OE: ttf-dejavu
+HomePage: http://dejavu.sourceforge.net/wiki/
+Priority: optional
+
+
+Package: ttf-dejavu-sans
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common
+Section: fonts
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 45f00e34e1ced3fbb4589bb7e9d892ce
+Size: 1319164
+Filename: ttf-dejavu-sans_2.23-r2.5_all.ipk
+Source: http://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.23.tar.bz2 file://30-dejavu-aliases.conf
+Description: DejaVu font - TTF Edition
+OE: ttf-dejavu
+HomePage: http://dejavu.sourceforge.net/wiki/
+Priority: optional
+
+
+Package: ttf-dejavu-serif-condensed
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common
+Section: fonts
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d10dd04354b537b8de1a2a2a8153aafe
+Size: 578750
+Filename: ttf-dejavu-serif-condensed_2.23-r2.5_all.ipk
+Source: http://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.23.tar.bz2 file://30-dejavu-aliases.conf
+Description: DejaVu font - TTF Edition
+OE: ttf-dejavu
+HomePage: http://dejavu.sourceforge.net/wiki/
+Priority: optional
+
+
+Package: ttf-dejavu-serif
+Version: 2.23-r2.5
+Depends: ttf-dejavu-common
+Recommends: font-update-common
+Section: fonts
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7688f2d97e3194e496c3bf0dbcdb850a
+Size: 609450
+Filename: ttf-dejavu-serif_2.23-r2.5_all.ipk
+Source: http://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.23.tar.bz2 file://30-dejavu-aliases.conf
+Description: DejaVu font - TTF Edition
+OE: ttf-dejavu
+HomePage: http://dejavu.sourceforge.net/wiki/
+Priority: optional
+
+
+Package: update-modules-dbg
+Version: 1.0-r8.5
+Depends: module-init-tools-depmod
+Recommends: update-modules, module-init-tools-depmod-dbg, update-modules-dbg
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: de6be0e76dd536a9156459457c6e6a02
+Size: 750
+Filename: update-modules-dbg_1.0-r8.5_all.ipk
+Source: file://update-modules
+Description: Script to manage module configuration files
+OE: update-modules
+HomePage: unknown
+Priority: optional
+
+
+Package: update-modules-dev
+Version: 1.0-r8.5
+Depends: update-modules
+Recommends: module-init-tools-depmod-dev, update-modules-dev
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: c97080dd7100aabb4c7d3f9cb604ba67
+Size: 746
+Filename: update-modules-dev_1.0-r8.5_all.ipk
+Source: file://update-modules
+Description: Script to manage module configuration files
+OE: update-modules
+HomePage: unknown
+Priority: optional
+
+
+Package: update-modules
+Version: 1.0-r8.5
+Depends: module-init-tools-depmod
+Section: base
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: ff189f6dc294a54ccda2bcfefa0da063
+Size: 2512
+Filename: update-modules_1.0-r8.5_all.ipk
+Source: file://update-modules
+Description: Script to manage module configuration files
+OE: update-modules
+HomePage: unknown
+Priority: optional
+
+
+Package: update-rc.d-dbg
+Version: 0.7-r1.5
+Recommends: update-rc.d, update-rc.d-dbg
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: e5766d3f5e7cc39a90aa874d72838941
+Size: 722
+Filename: update-rc.d-dbg_0.7-r1.5_all.ipk
+Source: cvs://anoncvs:anoncvs@anoncvs.handhelds.org/cvs;module=apps/update-rc.d;tag=r0_7 file://add-verbose.patch;patch=1
+Description: Manage symlinks in /etc/rcN.d
+OE: update-rc.d
+HomePage: unknown
+Priority: standard
+
+
+Package: update-rc.d-dev
+Version: 0.7-r1.5
+Depends: update-rc.d
+Recommends: update-rc.d-dev
+Section: devel
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1adcb0d2faf573785c467652c27350a8
+Size: 726
+Filename: update-rc.d-dev_0.7-r1.5_all.ipk
+Source: cvs://anoncvs:anoncvs@anoncvs.handhelds.org/cvs;module=apps/update-rc.d;tag=r0_7 file://add-verbose.patch;patch=1
+Description: Manage symlinks in /etc/rcN.d
+OE: update-rc.d
+HomePage: unknown
+Priority: standard
+
+
+Package: update-rc.d
+Version: 0.7-r1.5
+Section: base
+Architecture: all
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 94c90073cd88aaff389398e05fd89859
+Size: 2602
+Filename: update-rc.d_0.7-r1.5_all.ipk
+Source: cvs://anoncvs:anoncvs@anoncvs.handhelds.org/cvs;module=apps/update-rc.d;tag=r0_7 file://add-verbose.patch;patch=1
+Description: Manage symlinks in /etc/rcN.d
+OE: update-rc.d
+HomePage: unknown
+Priority: standard
+
+

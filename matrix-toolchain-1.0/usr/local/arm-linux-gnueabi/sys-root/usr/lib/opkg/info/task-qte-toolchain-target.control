@@ -1,0 +1,12 @@
+Package: task-qte-toolchain-target
+Version: 1.0-r2.5
+Description: Target packages for Qt Embedded SDK
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: MIT
+Architecture: armv5te
+OE: task-qte-toolchain-target
+Homepage: unknown
+Depends: task-sdk-bare, qt4-embedded-mkspecs, libphonone-dev, libqt3supporte-dev, libqtassistantcliente-dev, libqtclucenee-dev, libqtcoree-dev, libqtdbuse-dev, libqtdesignercomponentse-dev, libqtdesignere-dev, libqt-embeddeduitools4-dev, libqtguie-dev, libqthelpe-dev, libqtnetworke-dev, libqtscripte-dev, libqtscripttoolse-dev, libqtsqle-dev, libqtsvge-dev, libqtteste-dev, libqtwebkite-dev, libqtxmle-dev, libmysqlclient-dev, libsqlite-dev, libsqlite3-dev, libts-dev, libexpat-dev
+Source: file:///OE/openembedded.dev/recipes/tasks/task-qte-toolchain-target.bb

@@ -1,0 +1,3 @@
+/usr/lib/libsqlite.so
+/usr/lib/pkgconfig/sqlite.pc
+/usr/include/sqlite.h

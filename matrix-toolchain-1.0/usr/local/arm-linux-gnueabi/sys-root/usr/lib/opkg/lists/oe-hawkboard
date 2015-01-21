@@ -1,0 +1,2467 @@
+Package: angstrom-feed-configs-dbg
+Version: 1.0-r9.5
+Recommends: angstrom-feed-configs, angstrom-feed-configs-dbg
+Section: devel
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 56aaa74cd9ccb2498c91fe3105bb2486
+Size: 708
+Filename: angstrom-feed-configs-dbg_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Configuration files for online package repositories aka feeds
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-feed-configs-dev
+Version: 1.0-r9.5
+Depends: angstrom-feed-configs
+Recommends: angstrom-feed-configs-dev
+Section: devel
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f987598d71a70a7444e0b2f566f5f66c
+Size: 708
+Filename: angstrom-feed-configs-dev_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Configuration files for online package repositories aka feeds
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-feed-configs
+Version: 1.0-r9.5
+Recommends: opkg-nogpg-nocurl
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 618bf19fd60522a25d939a1f65237327
+Size: 1230
+Filename: angstrom-feed-configs_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Configuration files for online package repositories aka feeds
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-a-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 34ab953c4b59b3a48094a597c4a59064
+Size: 840
+Filename: angstrom-locale-a-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the a-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-af-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 75c42aec1062ec6be6669243044a1a83
+Size: 842
+Filename: angstrom-locale-af-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the af-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-am-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 6f455f101f1d4a32306a8340500725a4
+Size: 842
+Filename: angstrom-locale-am-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the am-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-an-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: aed43fcbde7a150c5f82051b456b02b1
+Size: 842
+Filename: angstrom-locale-an-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the an-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ang-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 0dec76382615094b76ae317dd5e29463
+Size: 842
+Filename: angstrom-locale-ang-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ang-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ar-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 5a5da582393cb2314156915db747414d
+Size: 844
+Filename: angstrom-locale-ar-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ar-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-as-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: ce57822666845d1a5740c3664adfdd4d
+Size: 842
+Filename: angstrom-locale-as-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the as-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ast-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 81b289b160fb4087f7600b5219b6a779
+Size: 846
+Filename: angstrom-locale-ast-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ast-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ay-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 282cd7fd29e674d3814bf778d7c4aabc
+Size: 844
+Filename: angstrom-locale-ay-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ay-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-az-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: c9d750f3a301ecf8f6edc49ada79246c
+Size: 842
+Filename: angstrom-locale-az-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the az-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-be-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: fb53de217f4bac51ec88fc2af13391ad
+Size: 844
+Filename: angstrom-locale-be-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the be-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-bg-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: fd19345702f4d81f32513e59ec4f00da
+Size: 844
+Filename: angstrom-locale-bg-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the bg-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-bn-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 32ca9f3db2fd4a02819905e713cb2331
+Size: 844
+Filename: angstrom-locale-bn-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the bn-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-br-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 0228bd5dd7673e57060e17180fa7bff4
+Size: 844
+Filename: angstrom-locale-br-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the br-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-bs-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 2d8dc5bb6fdadb41b7e46be9d9375b24
+Size: 842
+Filename: angstrom-locale-bs-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the bs-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-byn-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 0db00253bcbc0955712f6f3fadc20d2d
+Size: 846
+Filename: angstrom-locale-byn-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the byn-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ca-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: c9394dbc09ee7f5d3a63c32af254aeaf
+Size: 840
+Filename: angstrom-locale-ca-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ca-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-co-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d0e791fc3c5728599e84e288ac9a24d9
+Size: 840
+Filename: angstrom-locale-co-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the co-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-crh-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7eff5366e54a81481118e476abde1c5d
+Size: 846
+Filename: angstrom-locale-crh-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the crh-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-cs-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 11a626094ff2d5d797fec282dfebf15d
+Size: 842
+Filename: angstrom-locale-cs-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the cs-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-csb-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d5b007c4928a7d6ffb9e735580c6a796
+Size: 846
+Filename: angstrom-locale-csb-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the csb-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-cy-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f4ad9909b5fc6094117be64e07426184
+Size: 846
+Filename: angstrom-locale-cy-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the cy-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-da-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 9e58cd9195364af30055b91c92d490c8
+Size: 844
+Filename: angstrom-locale-da-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the da-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-de-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 867005bb2165b482340d5ad079a588ae
+Size: 842
+Filename: angstrom-locale-de-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the de-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-dv-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 43908420ff07efb9d986c3dc06cfef5c
+Size: 846
+Filename: angstrom-locale-dv-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the dv-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-dz-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: fca79ee68308b878b3ce5498a67f608a
+Size: 842
+Filename: angstrom-locale-dz-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the dz-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-el-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: fc445b277f9f87c7406abd1eb7da0657
+Size: 842
+Filename: angstrom-locale-el-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the el-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-en-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 23094dd8a76dbae05f53f8c033895239
+Size: 844
+Filename: angstrom-locale-en-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the en-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-eo-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f6a15f0502446eb53ddda27335613ad2
+Size: 838
+Filename: angstrom-locale-eo-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the eo-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-es-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 2bc3df1aeca95f5d311272eb6883cc49
+Size: 844
+Filename: angstrom-locale-es-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the es-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-et-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 77c592cdc85831a04e72305004d3f3a9
+Size: 840
+Filename: angstrom-locale-et-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the et-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-eu-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 6687d9a03dab62b0cab99b5cea31c1c1
+Size: 842
+Filename: angstrom-locale-eu-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the eu-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-fa-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1f6cd700f7dd6aa81a0157eaf8280c7a
+Size: 842
+Filename: angstrom-locale-fa-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the fa-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ff-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: ce2439cc8fbab215eea56e5560a85b5b
+Size: 842
+Filename: angstrom-locale-ff-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ff-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-fi-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: ce74180cc4a564bc5f33da7f863bd477
+Size: 840
+Filename: angstrom-locale-fi-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the fi-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-fo-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 8f4d41973d2900c701dfc48a38beaf3d
+Size: 842
+Filename: angstrom-locale-fo-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the fo-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-fr-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 914834f2717861bb13980abad107c97c
+Size: 842
+Filename: angstrom-locale-fr-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the fr-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-fur-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 72e9744f2fa9f1c7c719bb10b71707f8
+Size: 848
+Filename: angstrom-locale-fur-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the fur-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-fy-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 8a55b90ef49405a4dba460020944847f
+Size: 844
+Filename: angstrom-locale-fy-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the fy-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ga-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f1d376902a0d92ed22f92ebfe9fefd11
+Size: 846
+Filename: angstrom-locale-ga-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ga-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-gd-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: b4ba8f1e0d2a70bacf3ce3fb06fb8fa9
+Size: 844
+Filename: angstrom-locale-gd-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the gd-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-gez-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 098b89745939d015f6a78df59da5562b
+Size: 846
+Filename: angstrom-locale-gez-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the gez-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-gl-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 8db665ca6f2af1db0f65698d24c027b3
+Size: 842
+Filename: angstrom-locale-gl-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the gl-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-gn-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f72436f7d65ef663fecc3c3ddd557ca0
+Size: 840
+Filename: angstrom-locale-gn-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the gn-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-gu-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7e888759e1866324d808effabdc0e1ef
+Size: 840
+Filename: angstrom-locale-gu-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the gu-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-gv-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d43d848fb542d300a13ffa6e000d5c4c
+Size: 842
+Filename: angstrom-locale-gv-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the gv-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ha-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: b98baea6fc62302a3359464d7d2c4fe6
+Size: 842
+Filename: angstrom-locale-ha-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ha-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-haw-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: aa6b8fbf19df7f391d6e9ff875eb8c2e
+Size: 846
+Filename: angstrom-locale-haw-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the haw-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-he-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 33d201fdcb19d0de2d88ca03892514d0
+Size: 838
+Filename: angstrom-locale-he-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the he-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-hi-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: c637a6d569dfc753fee858233635aeb6
+Size: 844
+Filename: angstrom-locale-hi-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the hi-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-hr-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 006c7a9974728884d85dd8b76126b6e2
+Size: 842
+Filename: angstrom-locale-hr-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the hr-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-hsb-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 04c1023b7ce778d30b399cc0a726c2ef
+Size: 846
+Filename: angstrom-locale-hsb-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the hsb-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ht-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1824924ad2566cf2d2f14b3a2df1dc86
+Size: 844
+Filename: angstrom-locale-ht-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ht-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-hu-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 0d02f97a4946ef41be1a608493969ebf
+Size: 842
+Filename: angstrom-locale-hu-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the hu-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-hy-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: ae5e1e85d9b1e4d9396fd22455df260d
+Size: 844
+Filename: angstrom-locale-hy-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the hy-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ia-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: fa10be03c0e88dbabe84405975b1c175
+Size: 840
+Filename: angstrom-locale-ia-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ia-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-id-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f5cc4a5c6d89137323908e788dd79777
+Size: 844
+Filename: angstrom-locale-id-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the id-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ig-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 58cca0bf758459666b312d24a193d5ae
+Size: 838
+Filename: angstrom-locale-ig-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ig-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-io-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: a45583970a92e55766708c74a9d5b4df
+Size: 842
+Filename: angstrom-locale-io-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the io-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-is-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 3f33ecc2538d4b6020ea63aaff348759
+Size: 844
+Filename: angstrom-locale-is-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the is-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-it-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 6b06c5f913ba69bc2a12923537bd248e
+Size: 840
+Filename: angstrom-locale-it-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the it-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-iu-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 60490ab5679bc5d268c58db864d5bc92
+Size: 846
+Filename: angstrom-locale-iu-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the iu-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-iw-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 9212cb24f98f05920873f641e19a048d
+Size: 842
+Filename: angstrom-locale-iw-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the iw-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ja-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 850f6c946241c4bb3aa0ca36d1eb4466
+Size: 844
+Filename: angstrom-locale-ja-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ja-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ka-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 31d1875802bb9470f3537794a343982e
+Size: 844
+Filename: angstrom-locale-ka-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ka-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-kk-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: cafa48fb01b700e56991f2814233fa21
+Size: 844
+Filename: angstrom-locale-kk-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the kk-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-kl-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 774783b789399a4d25a6ae39ba7ccf3d
+Size: 842
+Filename: angstrom-locale-kl-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the kl-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-km-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7b0b6ceeb277aae53ce1063cc68a3383
+Size: 844
+Filename: angstrom-locale-km-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the km-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-kn-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 14147715a3e768c17d7611dedc408e69
+Size: 838
+Filename: angstrom-locale-kn-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the kn-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ko-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 9fe4c43068f2d2690a89d00bfd283afe
+Size: 844
+Filename: angstrom-locale-ko-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ko-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-kok-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 8edadb75c8b5826424c3fcf04bc91164
+Size: 846
+Filename: angstrom-locale-kok-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the kok-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ks-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d4685dec15f5ca875a5ca13c7511ac48
+Size: 844
+Filename: angstrom-locale-ks-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ks-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ku-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 3544ae3e1785afdeb28ef35591f4d2ee
+Size: 848
+Filename: angstrom-locale-ku-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ku-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-kw-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: bd33c4e0f87f6b96702013975badaf56
+Size: 846
+Filename: angstrom-locale-kw-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the kw-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ky-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7e101c355b3f4cf6f4384427bd80824c
+Size: 842
+Filename: angstrom-locale-ky-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ky-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-la-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: debf434e0eec5245741edee27e530d3c
+Size: 840
+Filename: angstrom-locale-la-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the la-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-lg-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 05b910b273764411f75c8dfdd08c796b
+Size: 844
+Filename: angstrom-locale-lg-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the lg-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-li-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7850b46370ce374ef3f994764499f219
+Size: 840
+Filename: angstrom-locale-li-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the li-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-lo-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: e6aadc2b2c2c0bde33e24685e609eb0e
+Size: 846
+Filename: angstrom-locale-lo-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the lo-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-locale-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7f12b0c0b9f64928475239b3593bf42d
+Size: 840
+Filename: angstrom-locale-locale-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the locale-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-lt-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 519dfc79c94deb52b8c2c96aa3a34c51
+Size: 846
+Filename: angstrom-locale-lt-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the lt-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-lv-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: fba1723344dcb799b38e973f7e3ac3af
+Size: 844
+Filename: angstrom-locale-lv-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the lv-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-mai-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 715d166ecbfabba6f89e6da3d9d4b2b3
+Size: 846
+Filename: angstrom-locale-mai-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the mai-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-mg-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: badd23e38f3f028b1c7a5e7f984bfb50
+Size: 842
+Filename: angstrom-locale-mg-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the mg-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-mi-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: a71deecde50fbbfce4826cea3907448b
+Size: 844
+Filename: angstrom-locale-mi-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the mi-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-mk-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: b2d1622a1260c4e7ebdd323bc5b7e766
+Size: 842
+Filename: angstrom-locale-mk-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the mk-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ml-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f432b7e9d081695886edb6a2c5d99fc2
+Size: 844
+Filename: angstrom-locale-ml-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ml-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-mn-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: fc8455735364c025abdf3a0dc593fb73
+Size: 846
+Filename: angstrom-locale-mn-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the mn-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-mr-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1e2be67c5c8218aa1b73d28fc1fb98df
+Size: 848
+Filename: angstrom-locale-mr-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the mr-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ms-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 2505c424f3adf5570132b50a6bf19f5c
+Size: 844
+Filename: angstrom-locale-ms-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ms-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-mt-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 66825297e82a96270ee5a36112e471bb
+Size: 842
+Filename: angstrom-locale-mt-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the mt-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-mvo-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 3ee54edba35bc78ae37eb3f87c6b537c
+Size: 846
+Filename: angstrom-locale-mvo-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the mvo-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-my-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 794f6acc0475eb9999d143daa88dc725
+Size: 844
+Filename: angstrom-locale-my-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the my-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-nb-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 9f838c1cb926655f52ef41ab99cf90c1
+Size: 840
+Filename: angstrom-locale-nb-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the nb-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ne-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 996bc1673256d2974fc44ae10ac2ffe2
+Size: 844
+Filename: angstrom-locale-ne-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ne-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-nl-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7837464da296a362808c4a03a7ce0090
+Size: 842
+Filename: angstrom-locale-nl-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the nl-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-nn-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f87ebbd9ad8a1c2ab209aff30ae8bb0c
+Size: 842
+Filename: angstrom-locale-nn-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the nn-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-no-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 48f7bf2a7b610205911b3a2801fe0d6d
+Size: 842
+Filename: angstrom-locale-no-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the no-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-nr-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 82ee7b654586d3537cc0af54cec54eaf
+Size: 848
+Filename: angstrom-locale-nr-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the nr-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-nso-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 556999841884e646f2d1e997d61ab8e0
+Size: 848
+Filename: angstrom-locale-nso-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the nso-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-oc-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 5107297597816128e395c97c44a9f219
+Size: 840
+Filename: angstrom-locale-oc-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the oc-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-om-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: be5b3b8dc33fc5ba19ff3485ebffc215
+Size: 842
+Filename: angstrom-locale-om-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the om-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-or-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d00c55924e5d01ecb0ce8538e85982c4
+Size: 844
+Filename: angstrom-locale-or-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the or-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-pa-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d8043537c215c8d98f37beee94eddaa8
+Size: 844
+Filename: angstrom-locale-pa-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the pa-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-pap-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: c616b80423a832bda28a27c51380365c
+Size: 846
+Filename: angstrom-locale-pap-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the pap-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-pis-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 2f747230389268c8c7512a8d2243325e
+Size: 846
+Filename: angstrom-locale-pis-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the pis-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-pl-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 398e32c7dd93470e758ea221f54c8ec4
+Size: 842
+Filename: angstrom-locale-pl-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the pl-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ps-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7d087cb69f1116dc06ebfea1a72ac6bb
+Size: 844
+Filename: angstrom-locale-ps-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ps-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-pt-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 44bc15da9544992d17fe08c5d47371e4
+Size: 842
+Filename: angstrom-locale-pt-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the pt-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-qu-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1f06a9bd2485e037e857001d4a6849de
+Size: 844
+Filename: angstrom-locale-qu-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the qu-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ro-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 6f31f473bf6850c1221fc3a69ab3f67b
+Size: 846
+Filename: angstrom-locale-ro-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ro-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ru-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: b9412f457bd08d08977f58b19df32d79
+Size: 846
+Filename: angstrom-locale-ru-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ru-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-rw-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: d70197f8b60a46cf5b085256efd7c105
+Size: 846
+Filename: angstrom-locale-rw-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the rw-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sa-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1c32f3bc55be7e32a93601ab10d651bb
+Size: 844
+Filename: angstrom-locale-sa-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sa-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sd-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 777de3d8653cc7989e83cd78ccf80271
+Size: 842
+Filename: angstrom-locale-sd-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sd-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-se-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: db9344e451929c60de66ce870f7b6fca
+Size: 842
+Filename: angstrom-locale-se-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the se-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-si-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 6b9b41141e65f9a3c105e4018bd70d72
+Size: 846
+Filename: angstrom-locale-si-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the si-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sid-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 609a809cdbf5a2ae8f182c60c402e783
+Size: 848
+Filename: angstrom-locale-sid-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sid-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sk-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: bb2ada801c3a4a397178215371e42095
+Size: 844
+Filename: angstrom-locale-sk-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sk-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sl-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: c3ec46a90b400a9c15c2c8dd5d7b2f3f
+Size: 846
+Filename: angstrom-locale-sl-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sl-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-so-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 16e56c179b66fdd3d422492c72b22122
+Size: 846
+Filename: angstrom-locale-so-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the so-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sp-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 2a94b22f703302807fae8804912897e1
+Size: 846
+Filename: angstrom-locale-sp-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sp-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sq-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 123363008276c846f85d3e5d855fd377
+Size: 846
+Filename: angstrom-locale-sq-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sq-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sr-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 3592448fa1e5012170b3f59514bd62e6
+Size: 840
+Filename: angstrom-locale-sr-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sr-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ss-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 8e6efd7a7094b35cffb4d8e5f41916b7
+Size: 844
+Filename: angstrom-locale-ss-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ss-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-st-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 3e04fb3357e088667b862ab8debbbd57
+Size: 846
+Filename: angstrom-locale-st-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the st-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sv-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1483da37fc083cbf3fe6c21387f62171
+Size: 848
+Filename: angstrom-locale-sv-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sv-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-sw-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: e67642a5c63d48f5b4fb06b8269011ab
+Size: 848
+Filename: angstrom-locale-sw-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the sw-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-syr-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f1a551781190f7c631eda11c96fd34ee
+Size: 844
+Filename: angstrom-locale-syr-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the syr-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ta-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: ba774ceea16a2d11737bb3a93cea6ae1
+Size: 840
+Filename: angstrom-locale-ta-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ta-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-te-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 78c5359e36f30ef06c5484d889531219
+Size: 840
+Filename: angstrom-locale-te-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the te-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tet-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: aca612b6d1d767e1be872f6ace82cb6e
+Size: 842
+Filename: angstrom-locale-tet-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tet-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tg-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: b112d2b629a319c7df1cc8bee10a67a7
+Size: 842
+Filename: angstrom-locale-tg-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tg-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-th-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 2c59414bdaf2df2b998f28ed557926e0
+Size: 842
+Filename: angstrom-locale-th-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the th-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ti-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7db59949610d97d45202e81ceb6be36a
+Size: 842
+Filename: angstrom-locale-ti-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ti-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tig-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7908acb292407be828ec8301dc1d9226
+Size: 840
+Filename: angstrom-locale-tig-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tig-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tk-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 90fb723068266994110cb20fcc61d9d6
+Size: 844
+Filename: angstrom-locale-tk-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tk-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tl-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: b0f678c66d752330e193012ec24d8c92
+Size: 842
+Filename: angstrom-locale-tl-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tl-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tn-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 327f655f06355bee1c61e4fc1daa5009
+Size: 844
+Filename: angstrom-locale-tn-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tn-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tpi-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 5f2cb2a22daba149ff23ef3565900123
+Size: 846
+Filename: angstrom-locale-tpi-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tpi-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tr-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 7fdf8c7ee6442dad7eb64c6c0027883a
+Size: 846
+Filename: angstrom-locale-tr-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tr-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ts-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 5c6de57000b0a823684b69327daa614b
+Size: 846
+Filename: angstrom-locale-ts-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ts-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-tt-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 9f933e6901ef9f0489c3c318f37a1d3c
+Size: 844
+Filename: angstrom-locale-tt-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the tt-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ug-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1cec9c56eade0bac1a0ad33d7e6f8639
+Size: 840
+Filename: angstrom-locale-ug-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ug-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-uk-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 040c7b8f8744c8bde75d4348a794ef16
+Size: 842
+Filename: angstrom-locale-uk-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the uk-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ur-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 4beb3832f51060ab93b6dafaac41f407
+Size: 846
+Filename: angstrom-locale-ur-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ur-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-uz-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1a8f5c8f8464ab9d37490e153191b1ac
+Size: 842
+Filename: angstrom-locale-uz-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the uz-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-ve-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: cac827fd0b1d50c9a3eefd21174d993e
+Size: 842
+Filename: angstrom-locale-ve-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the ve-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-vi-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 374f9557b9965155e7b7a02d37e7506d
+Size: 848
+Filename: angstrom-locale-vi-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the vi-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-wa-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 1f8005ae0bc05e2e844efc371a4972a2
+Size: 846
+Filename: angstrom-locale-wa-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the wa-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-wal-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 304a22fa38b606e66257339e02b9aa05
+Size: 844
+Filename: angstrom-locale-wal-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the wal-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-wo-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 2f8c6f2fda2e0948da5e16131160acb0
+Size: 844
+Filename: angstrom-locale-wo-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the wo-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-xh-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 0396017e591e7f920878e11284282461
+Size: 848
+Filename: angstrom-locale-xh-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the xh-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-yi-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 5af136373b62e418e822c1e4ef74eabf
+Size: 842
+Filename: angstrom-locale-yi-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the yi-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-yo-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 001e65483518e08acbd24d4f8d758141
+Size: 842
+Filename: angstrom-locale-yo-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the yo-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-zh-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: f39161539aa09179d03b9961687815d0
+Size: 846
+Filename: angstrom-locale-zh-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the zh-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: angstrom-locale-zu-feed-config
+Version: 1.0-r9.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 0cace3926933473ae8556d382ef06752
+Size: 844
+Filename: angstrom-locale-zu-feed-config_1.0-r9.5_hawkboard.ipk
+Source: file:///OE/openembedded.dev/recipes/angstrom/angstrom-feed-configs.bb
+Description: Angstrom feed config for the zu-feed locale
+OE: angstrom-feed-configs
+HomePage: unknown
+Priority: optional
+
+
+Package: pointercal-dbg
+Version: 0.0-r20.5
+Recommends: pointercal, pointercal-dbg
+Section: devel
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 4b8039ad5d0c61ba7f30aa48054a97f7
+Size: 656
+Filename: pointercal-dbg_0.0-r20.5_hawkboard.ipk
+Source: file://pointercal
+Description: Touchscreen calibration data
+OE: pointercal
+HomePage: unknown
+Priority: optional
+
+
+Package: pointercal-dev
+Version: 0.0-r20.5
+Depends: pointercal
+Recommends: pointercal-dev
+Section: devel
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 76f40d6544d28098660857687d12812f
+Size: 660
+Filename: pointercal-dev_0.0-r20.5_hawkboard.ipk
+Source: file://pointercal
+Description: Touchscreen calibration data
+OE: pointercal
+HomePage: unknown
+Priority: optional
+
+
+Package: pointercal
+Version: 0.0-r20.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: bb3a5bb21e653919f2370bb40b901341
+Size: 640
+Filename: pointercal_0.0-r20.5_hawkboard.ipk
+Source: file://pointercal
+Description: Touchscreen calibration data
+OE: pointercal
+HomePage: unknown
+Priority: optional
+
+
+Package: sysvinit-inittab
+Version: 2.86-r58.5
+Section: base
+Architecture: hawkboard
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+MD5Sum: 187551e47fd172f45d3c8c7078c93e2b
+Size: 1400
+Filename: sysvinit-inittab_2.86-r58.5_hawkboard.ipk
+Source: ftp://ftp.cistron.nl/pub/people/miquels/sysvinit/sysvinit-2.86.tar.gz file://install.patch;patch=1 file://need file://provide file://inittab file://rcS-default file://rc file://rcS file://bootlogd.init
+Description: System-V like init.
+OE: sysvinit
+HomePage: http://freshmeat.net/projects/sysvinit/
+Priority: optional
+
+

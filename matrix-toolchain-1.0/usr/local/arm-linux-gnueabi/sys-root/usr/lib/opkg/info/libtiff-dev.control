@@ -1,0 +1,13 @@
+Package: libtiff-dev
+Version: 3.9.2+4.0.0beta5-r3.5
+Description: This software provides support for the Tag Image File Format (TIFF)
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: tiff
+Architecture: armv5te
+OE: tiff
+Homepage: http://www.remotesensing.org/libtiff/
+Depends: libtiff5, libtiff5
+Recommends: libz-dev, libjpeg-dev, liblzo-dev, libc6-dev, libgcc-dev
+Source: ftp://ftp.remotesensing.org/pub/libtiff/tiff-4.0.0beta5.tar.gz;name=tiff400beta5targz

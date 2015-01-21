@@ -1,0 +1,12 @@
+Package: openssl
+Version: 0.9.8m-r12.0.5
+Description: Secure Socket Layer (SSL) binary and related cryptographic tools.
+Section: libs/network
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: openssl
+Architecture: armv5te
+OE: openssl
+Homepage: http://www.openssl.org/
+Depends: libssl0.9.8, libcrypto0.9.8, libc6
+Source: http://www.openssl.org/source/openssl-0.9.8m.tar.gz;name=src file://configure-targets.patch;patch=1 file://shared-libs.patch;patch=1 file://debian.patch;patch=1 file://oe-ldflags.patch;patch=1

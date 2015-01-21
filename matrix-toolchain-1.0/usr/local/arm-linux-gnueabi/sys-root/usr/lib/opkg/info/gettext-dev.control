@@ -1,0 +1,13 @@
+Package: gettext-dev
+Version: 0.17-r6.5
+Description: The GNU internationalization library.
+Section: devel
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPLv3
+Architecture: armv5te
+OE: gettext
+Homepage: http://www.gnu.org/software/gettext/gettext.html
+Depends: gettext, gettext, libgettextsrc, libgettextlib
+Recommends: ncurses-dev, libexpat-dev, libacl-dev, libattr-dev, libc6-dev, libgcc-dev, libgettextlib-dev, libgettextsrc-dev, gettext-dev, gettext-libintl-dev, virtual-locale-it-dev, virtual-locale-ru-dev, virtual-locale-fr-dev, virtual-locale-ca-dev, virtual-locale-pl-dev, virtual-locale-eu-dev, virtual-locale-sv-dev, virtual-locale-tr-dev, virtual-locale-et-dev, virtual-locale-pt-dev, virtual-locale-zh-cn-dev, virtual-locale-ko-dev, virtual-locale-es-dev, virtual-locale-nl-dev, virtual-locale-ga-dev, virtual-locale-sk-dev, virtual-locale-vi-dev, virtual-locale-cs-dev, virtual-locale-en+quot-dev, virtual-locale-ro-dev, virtual-locale-id-dev, virtual-locale-zh-hk-dev, virtual-locale-be-dev, virtual-locale-eo-dev, virtual-locale-uk-dev, virtual-locale-fi-dev, virtual-locale-nn-dev, virtual-locale-gl-dev, virtual-locale-zh-tw-dev, virtual-locale-el-dev, virtual-locale-sr-dev, virtual-locale-da-dev, virtual-locale-pt-br-dev, virtual-locale-en+boldquot-dev, virtual-locale-ja-dev, virtual-locale-sl-dev, virtual-locale-de-dev, virtual-locale-nb-dev
+Source: ftp://ftp.gnu.org/gnu/gettext/gettext-0.17.tar.gz file://autotools.patch;patch=1 file://wchar-uclibc.patch;patch=1 file://use_open_properly.patch;patch=1 file://gettext-autoconf-lib-link-no-L.patch;patch=1 file://m4_copy.patch;patch=1

@@ -1,0 +1,12 @@
+Package: liboil
+Version: 0.3.15-r4.5
+Description: Liboil is a library of simple functions that are optimized for various CPUs.
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: various
+Architecture: armv5te
+OE: liboil
+Homepage: http://liboil.freedesktop.org/
+Depends: libc6
+Source: http://liboil.freedesktop.org/download/liboil-0.3.15.tar.gz file://autotools.patch;patch=1 file://arm-vfp.patch;patch=1

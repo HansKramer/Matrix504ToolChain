@@ -1,0 +1,13 @@
+Package: util-linux-ng-cfdisk
+Version: 2.17-r21.1.5
+Description: Util-linux-ng is a suite of essential utilities for any Linux system.
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPL
+Architecture: armv5te
+OE: util-linux-ng
+Homepage: unknown
+Depends: ncurses, libgcc1, libc6
+Provides: util-linux-cfdisk
+Source: http://kernel.org/pub/linux/utils/util-linux-ng/v2.17/util-linux-ng-2.17.tar.bz2;name=archive file://uclibc-compile.patch;patch=1 file://util-linux-ng-replace-siginterrupt.patch;patch=1

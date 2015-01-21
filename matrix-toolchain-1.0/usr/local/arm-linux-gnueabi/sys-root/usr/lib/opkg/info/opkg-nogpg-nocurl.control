@@ -1,0 +1,13 @@
+Package: opkg-nogpg-nocurl
+Version: 0.1.6+svnr527-r21.5
+Description: Opkg Package Manager
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: GPLv2
+Architecture: armv5te
+OE: opkg-nogpg-nocurl
+Homepage: unknown
+Depends: libc6
+Provides: update-alternatives
+Source: svn://opkg.googlecode.com/svn;module=trunk;proto=http file://opkg_unarchive.patch;patch=1;maxrev=201 file://opkg-intercept-cleanup.patch;patch=1;maxrev=241 file://configure
